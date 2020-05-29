@@ -3,11 +3,15 @@
 #include <cstrike>
 #include <sdktools_functions>
 #include <sdktools_entinput>
-#include "../MapVoting/map_voting"
-#include <hls_color_chat>
+#include <sourcemod>
+#include <cstrike>
+#include <autoexec>
+#include <csgocolors>
+//#include "../MapVoting/map_voting"
+//#include <hls_color_chat>
 
 #undef REQUIRE_PLUGIN
-#include "../../Libraries/ModelSkinManager/model_skin_manager"
+//#include "../../Libraries/ModelSkinManager/model_skin_manager"
 #define REQUIRE_PLUGIN
 
 #pragma semicolon 1
@@ -226,17 +230,6 @@ public Action:Timer_SetBotMoveType(Handle:hTimer)
 	SetEntityMoveType(iBot, MOVETYPE_NONE);
 }
 
-public MapVoting_OnVoteRocked(iChangeTimeType)
-{
-	if(iChangeTimeType != CHANGETIME_INSTANTLY && iChangeTimeType != CHANGETIME_ROUND_END)
-		return;
-	
-	DisableAutoRespawn();
-	
-	new iBot = GetClientFromSerial(g_iBotSerial);
-	if(iBot)
-		AcceptEntityInput(iBot, "Kill");
-}
 
 public Action:Event_RoundPrestart_Post(Handle:hEvent, const String:szName[], bool:bDontBroadcast)
 {
