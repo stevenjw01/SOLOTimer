@@ -1,0 +1,1155 @@
+L 05/28/2020 - 15:07:33: SourceMod log file session started (file "C:\servers\exofenscourse\csgo\addons\sourcemod\logs\L20200528.log") (Version "1.10.0.6488")
+L 05/28/2020 - 15:07:33: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 05/28/2020 - 15:07:33: [simple-chatprocessor.smx] [SCP] Recognized mod [Counter-Strike: GO].
+L 05/28/2020 - 15:07:33: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.csgo.phrases].
+L 05/28/2020 - 15:07:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_falldamage") (value "0")
+L 05/28/2020 - 15:07:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_warmuptime") (value "15")
+L 05/28/2020 - 15:07:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "phys_pushscale") (value "2")
+L 05/28/2020 - 15:07:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_accelerate") (value "6.500000")
+L 05/28/2020 - 15:07:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_airaccelerate") (value "150")
+L 05/28/2020 - 15:07:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxvelocity") (value "4000")
+L 05/28/2020 - 15:07:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_force") (value "30000")
+L 05/28/2020 - 15:07:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_max_force") (value "230000")
+L 05/28/2020 - 15:07:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_min_player_speed") (value "70")
+L 05/28/2020 - 15:07:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_turbophysics") (value "1")
+L 05/28/2020 - 15:07:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_wateraccelerate") (value "150")
+L 05/28/2020 - 15:07:35: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 05/28/2020 - 15:07:35: [mapconfigs.smx] Searching specific configs for mg_damons_canyon
+L 05/28/2020 - 15:07:35: [mapchooser_extended.smx] No official map list found for csgo. Consider submitting one!
+L 05/28/2020 - 15:07:36: [drapi_timer_replay.smx] Auto: 
+L 05/28/2020 - 15:10:19: -------- Mapchange to mg_damons_canyon --------
+L 05/28/2020 - 15:10:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_death_drop_gun") (value "1")
+L 05/28/2020 - 15:10:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_accelerate") (value "5.6")
+L 05/28/2020 - 15:10:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_wateraccelerate") (value "150")
+L 05/28/2020 - 15:10:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_airaccelerate") (value "1000")
+L 05/28/2020 - 15:10:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxvelocity") (value "4000")
+L 05/28/2020 - 15:10:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 05/28/2020 - 15:10:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_falldamage") (value "0")
+L 05/28/2020 - 15:10:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "phys_pushscale") (value "2")
+L 05/28/2020 - 15:10:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "cs_enable_player_physics_box") (value "1")
+L 05/28/2020 - 15:10:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_falldamage") (value "0")
+L 05/28/2020 - 15:10:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_warmuptime") (value "15")
+L 05/28/2020 - 15:10:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "phys_pushscale") (value "2")
+L 05/28/2020 - 15:10:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_accelerate") (value "6.500000")
+L 05/28/2020 - 15:10:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_airaccelerate") (value "150")
+L 05/28/2020 - 15:10:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxvelocity") (value "4000")
+L 05/28/2020 - 15:10:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_force") (value "30000")
+L 05/28/2020 - 15:10:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_max_force") (value "230000")
+L 05/28/2020 - 15:10:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_min_player_speed") (value "70")
+L 05/28/2020 - 15:10:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_turbophysics") (value "1")
+L 05/28/2020 - 15:10:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_wateraccelerate") (value "150")
+L 05/28/2020 - 15:10:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 05/28/2020 - 15:10:19: [mapconfigs.smx] Searching specific configs for mg_damons_canyon
+L 05/28/2020 - 15:10:19: [mapchooser_extended.smx] No official map list found for csgo. Consider submitting one!
+L 05/28/2020 - 15:10:20: [drapi_timer_replay.smx] Auto: 
+L 05/28/2020 - 15:13:31: [basecommands.smx] "steven #cute<3><STEAM_1:1:204039010><>" refreshed the admin cache.
+L 05/28/2020 - 15:14:55: -------- Mapchange to mg_balistic_course_final --------
+L 05/28/2020 - 15:14:55: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_death_drop_gun") (value "1")
+L 05/28/2020 - 15:14:55: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_accelerate") (value "5.6")
+L 05/28/2020 - 15:14:55: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_wateraccelerate") (value "150")
+L 05/28/2020 - 15:14:55: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_airaccelerate") (value "1000")
+L 05/28/2020 - 15:14:55: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxvelocity") (value "4000")
+L 05/28/2020 - 15:14:55: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 05/28/2020 - 15:14:55: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_falldamage") (value "0")
+L 05/28/2020 - 15:14:55: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "phys_pushscale") (value "2")
+L 05/28/2020 - 15:14:55: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "cs_enable_player_physics_box") (value "1")
+L 05/28/2020 - 15:14:56: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_falldamage") (value "0")
+L 05/28/2020 - 15:14:56: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_warmuptime") (value "15")
+L 05/28/2020 - 15:14:56: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "phys_pushscale") (value "2")
+L 05/28/2020 - 15:14:56: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_accelerate") (value "6.500000")
+L 05/28/2020 - 15:14:56: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_airaccelerate") (value "150")
+L 05/28/2020 - 15:14:56: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxvelocity") (value "4000")
+L 05/28/2020 - 15:14:56: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_force") (value "30000")
+L 05/28/2020 - 15:14:56: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_max_force") (value "230000")
+L 05/28/2020 - 15:14:56: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_min_player_speed") (value "70")
+L 05/28/2020 - 15:14:56: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_turbophysics") (value "1")
+L 05/28/2020 - 15:14:56: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_wateraccelerate") (value "150")
+L 05/28/2020 - 15:14:56: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 05/28/2020 - 15:14:56: [mapconfigs.smx] Searching specific configs for mg_balistic_course_final
+L 05/28/2020 - 15:14:56: [mapchooser_extended.smx] No official map list found for csgo. Consider submitting one!
+L 05/28/2020 - 15:14:57: [drapi_timer_replay.smx] Auto: 
+L 05/28/2020 - 15:16:15: -------- Mapchange to mg_balistic_course_final --------
+L 05/28/2020 - 15:16:15: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_death_drop_gun") (value "1")
+L 05/28/2020 - 15:16:15: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_accelerate") (value "5.6")
+L 05/28/2020 - 15:16:15: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_wateraccelerate") (value "150")
+L 05/28/2020 - 15:16:15: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_airaccelerate") (value "1000")
+L 05/28/2020 - 15:16:15: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxvelocity") (value "4000")
+L 05/28/2020 - 15:16:15: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 05/28/2020 - 15:16:15: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_falldamage") (value "0")
+L 05/28/2020 - 15:16:15: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "phys_pushscale") (value "2")
+L 05/28/2020 - 15:16:15: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "cs_enable_player_physics_box") (value "1")
+L 05/28/2020 - 15:16:15: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_falldamage") (value "0")
+L 05/28/2020 - 15:16:15: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_warmuptime") (value "15")
+L 05/28/2020 - 15:16:15: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "phys_pushscale") (value "2")
+L 05/28/2020 - 15:16:15: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_accelerate") (value "6.500000")
+L 05/28/2020 - 15:16:15: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_airaccelerate") (value "150")
+L 05/28/2020 - 15:16:15: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxvelocity") (value "4000")
+L 05/28/2020 - 15:16:15: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_force") (value "30000")
+L 05/28/2020 - 15:16:15: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_max_force") (value "230000")
+L 05/28/2020 - 15:16:15: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_min_player_speed") (value "70")
+L 05/28/2020 - 15:16:15: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_turbophysics") (value "1")
+L 05/28/2020 - 15:16:15: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_wateraccelerate") (value "150")
+L 05/28/2020 - 15:16:15: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 05/28/2020 - 15:16:15: [mapconfigs.smx] Searching specific configs for mg_balistic_course_final
+L 05/28/2020 - 15:16:15: [mapchooser_extended.smx] No official map list found for csgo. Consider submitting one!
+L 05/28/2020 - 15:16:16: [drapi_timer_replay.smx] Auto: 
+L 05/28/2020 - 15:16:28: SourceMod log file session started (file "C:\servers\exofenscourse\csgo\addons\sourcemod\logs\L20200528.log") (Version "1.10.0.6488")
+L 05/28/2020 - 15:16:28: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 05/28/2020 - 15:16:28: [simple-chatprocessor.smx] [SCP] Recognized mod [Counter-Strike: GO].
+L 05/28/2020 - 15:16:28: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.csgo.phrases].
+L 05/28/2020 - 15:16:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_falldamage") (value "0")
+L 05/28/2020 - 15:16:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_warmuptime") (value "15")
+L 05/28/2020 - 15:16:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "phys_pushscale") (value "2")
+L 05/28/2020 - 15:16:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_accelerate") (value "6.500000")
+L 05/28/2020 - 15:16:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_airaccelerate") (value "150")
+L 05/28/2020 - 15:16:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxvelocity") (value "4000")
+L 05/28/2020 - 15:16:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_force") (value "30000")
+L 05/28/2020 - 15:16:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_max_force") (value "230000")
+L 05/28/2020 - 15:16:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_min_player_speed") (value "70")
+L 05/28/2020 - 15:16:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_turbophysics") (value "1")
+L 05/28/2020 - 15:16:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_wateraccelerate") (value "150")
+L 05/28/2020 - 15:16:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 05/28/2020 - 15:16:30: [mapconfigs.smx] Searching specific configs for mg_damons_canyon
+L 05/28/2020 - 15:16:30: [mapchooser_extended.smx] No official map list found for csgo. Consider submitting one!
+L 05/28/2020 - 15:16:31: [drapi_timer_replay.smx] Auto: 
+L 05/28/2020 - 15:17:01: -------- Mapchange to mg_damons_canyon --------
+L 05/28/2020 - 15:17:01: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_death_drop_gun") (value "1")
+L 05/28/2020 - 15:17:01: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_accelerate") (value "5.6")
+L 05/28/2020 - 15:17:01: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_wateraccelerate") (value "150")
+L 05/28/2020 - 15:17:01: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_airaccelerate") (value "1000")
+L 05/28/2020 - 15:17:01: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxvelocity") (value "4000")
+L 05/28/2020 - 15:17:01: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 05/28/2020 - 15:17:01: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_falldamage") (value "0")
+L 05/28/2020 - 15:17:01: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "phys_pushscale") (value "2")
+L 05/28/2020 - 15:17:01: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "cs_enable_player_physics_box") (value "1")
+L 05/28/2020 - 15:17:01: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_falldamage") (value "0")
+L 05/28/2020 - 15:17:01: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_warmuptime") (value "15")
+L 05/28/2020 - 15:17:01: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "phys_pushscale") (value "2")
+L 05/28/2020 - 15:17:01: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_accelerate") (value "6.500000")
+L 05/28/2020 - 15:17:01: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_airaccelerate") (value "150")
+L 05/28/2020 - 15:17:01: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxvelocity") (value "4000")
+L 05/28/2020 - 15:17:01: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_force") (value "30000")
+L 05/28/2020 - 15:17:01: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_max_force") (value "230000")
+L 05/28/2020 - 15:17:01: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_min_player_speed") (value "70")
+L 05/28/2020 - 15:17:01: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_turbophysics") (value "1")
+L 05/28/2020 - 15:17:01: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_wateraccelerate") (value "150")
+L 05/28/2020 - 15:17:01: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 05/28/2020 - 15:17:01: [mapconfigs.smx] Searching specific configs for mg_damons_canyon
+L 05/28/2020 - 15:17:01: [mapchooser_extended.smx] No official map list found for csgo. Consider submitting one!
+L 05/28/2020 - 15:17:02: [drapi_timer_replay.smx] Auto: 
+L 05/28/2020 - 15:17:25: [drapi_timer_replay.smx] (1)Auto: 
+L 05/28/2020 - 15:17:25: [drapi_timer_replay.smx] (2)Auto: 
+L 05/28/2020 - 15:20:25: -------- Mapchange to mg_ataraxia --------
+L 05/28/2020 - 15:20:25: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_death_drop_gun") (value "1")
+L 05/28/2020 - 15:20:25: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_accelerate") (value "5.6")
+L 05/28/2020 - 15:20:25: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_wateraccelerate") (value "150")
+L 05/28/2020 - 15:20:25: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_airaccelerate") (value "1000")
+L 05/28/2020 - 15:20:25: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxvelocity") (value "4000")
+L 05/28/2020 - 15:20:25: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 05/28/2020 - 15:20:25: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_falldamage") (value "0")
+L 05/28/2020 - 15:20:25: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "phys_pushscale") (value "2")
+L 05/28/2020 - 15:20:25: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "cs_enable_player_physics_box") (value "1")
+L 05/28/2020 - 15:20:26: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_falldamage") (value "0")
+L 05/28/2020 - 15:20:26: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_warmuptime") (value "15")
+L 05/28/2020 - 15:20:26: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "phys_pushscale") (value "2")
+L 05/28/2020 - 15:20:26: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_accelerate") (value "6.500000")
+L 05/28/2020 - 15:20:26: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_airaccelerate") (value "150")
+L 05/28/2020 - 15:20:26: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxvelocity") (value "4000")
+L 05/28/2020 - 15:20:26: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_force") (value "30000")
+L 05/28/2020 - 15:20:26: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_max_force") (value "230000")
+L 05/28/2020 - 15:20:26: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_min_player_speed") (value "70")
+L 05/28/2020 - 15:20:26: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_turbophysics") (value "1")
+L 05/28/2020 - 15:20:26: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_wateraccelerate") (value "150")
+L 05/28/2020 - 15:20:26: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 05/28/2020 - 15:20:26: [mapconfigs.smx] Searching specific configs for mg_ataraxia
+L 05/28/2020 - 15:20:26: [mapchooser_extended.smx] No official map list found for csgo. Consider submitting one!
+L 05/28/2020 - 15:20:26: [drapi_timer_replay.smx] Auto: 
+L 05/28/2020 - 15:20:37: [drapi_timer_replay.smx] addons\sourcemod\data\botmimic\bhop\wr\mg_ataraxia/1590640990.rec
+L 05/28/2020 - 15:20:37: [drapi_timer_replay.smx] Legit: addons\sourcemod\data\botmimic\bhop\wr\mg_ataraxia/1590640990.rec
+L 05/28/2020 - 15:20:41: -------- Mapchange to mg_ataraxia --------
+L 05/28/2020 - 15:20:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_death_drop_gun") (value "1")
+L 05/28/2020 - 15:20:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_accelerate") (value "5.6")
+L 05/28/2020 - 15:20:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_wateraccelerate") (value "150")
+L 05/28/2020 - 15:20:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_airaccelerate") (value "1000")
+L 05/28/2020 - 15:20:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxvelocity") (value "4000")
+L 05/28/2020 - 15:20:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 05/28/2020 - 15:20:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_falldamage") (value "0")
+L 05/28/2020 - 15:20:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "phys_pushscale") (value "2")
+L 05/28/2020 - 15:20:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "cs_enable_player_physics_box") (value "1")
+L 05/28/2020 - 15:20:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_falldamage") (value "0")
+L 05/28/2020 - 15:20:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_warmuptime") (value "15")
+L 05/28/2020 - 15:20:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "phys_pushscale") (value "2")
+L 05/28/2020 - 15:20:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_accelerate") (value "6.500000")
+L 05/28/2020 - 15:20:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_airaccelerate") (value "150")
+L 05/28/2020 - 15:20:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxvelocity") (value "4000")
+L 05/28/2020 - 15:20:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_force") (value "30000")
+L 05/28/2020 - 15:20:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_max_force") (value "230000")
+L 05/28/2020 - 15:20:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_min_player_speed") (value "70")
+L 05/28/2020 - 15:20:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_turbophysics") (value "1")
+L 05/28/2020 - 15:20:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_wateraccelerate") (value "150")
+L 05/28/2020 - 15:20:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 05/28/2020 - 15:20:41: [mapconfigs.smx] Searching specific configs for mg_ataraxia
+L 05/28/2020 - 15:20:41: [mapchooser_extended.smx] No official map list found for csgo. Consider submitting one!
+L 05/28/2020 - 15:20:42: [drapi_timer_replay.smx] Legit: addons\sourcemod\data\botmimic\bhop\wr\mg_ataraxia/1590640990.rec
+L 05/28/2020 - 15:21:05: [drapi_timer_replay.smx] (1)Legit: addons\sourcemod\data\botmimic\bhop\wr\mg_ataraxia/1590640990.rec
+L 05/28/2020 - 16:13:54: SourceMod log file session started (file "C:\servers\exofenscourse\csgo\addons\sourcemod\logs\L20200528.log") (Version "1.10.0.6488")
+L 05/28/2020 - 16:13:54: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 05/28/2020 - 16:13:54: [simple-chatprocessor.smx] [SCP] Recognized mod [Counter-Strike: GO].
+L 05/28/2020 - 16:13:54: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.csgo.phrases].
+L 05/28/2020 - 16:13:56: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_falldamage") (value "0")
+L 05/28/2020 - 16:13:56: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_warmuptime") (value "15")
+L 05/28/2020 - 16:13:56: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "phys_pushscale") (value "2")
+L 05/28/2020 - 16:13:56: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_accelerate") (value "6.500000")
+L 05/28/2020 - 16:13:56: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_airaccelerate") (value "150")
+L 05/28/2020 - 16:13:56: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxvelocity") (value "4000")
+L 05/28/2020 - 16:13:56: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_force") (value "30000")
+L 05/28/2020 - 16:13:56: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_max_force") (value "230000")
+L 05/28/2020 - 16:13:56: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_min_player_speed") (value "70")
+L 05/28/2020 - 16:13:56: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_turbophysics") (value "1")
+L 05/28/2020 - 16:13:56: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_wateraccelerate") (value "150")
+L 05/28/2020 - 16:13:56: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 05/28/2020 - 16:13:56: [mapconfigs.smx] Searching specific configs for mg_damons_canyon
+L 05/28/2020 - 16:13:56: [mapchooser_extended.smx] No official map list found for csgo. Consider submitting one!
+L 05/28/2020 - 16:13:57: [drapi_timer_replay.smx] Auto: 
+L 05/28/2020 - 16:14:22: -------- Mapchange to mg_damons_canyon --------
+L 05/28/2020 - 16:14:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_death_drop_gun") (value "1")
+L 05/28/2020 - 16:14:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_accelerate") (value "5.6")
+L 05/28/2020 - 16:14:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_wateraccelerate") (value "150")
+L 05/28/2020 - 16:14:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_airaccelerate") (value "1000")
+L 05/28/2020 - 16:14:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxvelocity") (value "4000")
+L 05/28/2020 - 16:14:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 05/28/2020 - 16:14:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_falldamage") (value "0")
+L 05/28/2020 - 16:14:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "phys_pushscale") (value "2")
+L 05/28/2020 - 16:14:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "cs_enable_player_physics_box") (value "1")
+L 05/28/2020 - 16:14:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_falldamage") (value "0")
+L 05/28/2020 - 16:14:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_warmuptime") (value "15")
+L 05/28/2020 - 16:14:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "phys_pushscale") (value "2")
+L 05/28/2020 - 16:14:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_accelerate") (value "6.500000")
+L 05/28/2020 - 16:14:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_airaccelerate") (value "150")
+L 05/28/2020 - 16:14:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxvelocity") (value "4000")
+L 05/28/2020 - 16:14:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_force") (value "30000")
+L 05/28/2020 - 16:14:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_max_force") (value "230000")
+L 05/28/2020 - 16:14:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_min_player_speed") (value "70")
+L 05/28/2020 - 16:14:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_turbophysics") (value "1")
+L 05/28/2020 - 16:14:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_wateraccelerate") (value "150")
+L 05/28/2020 - 16:14:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 05/28/2020 - 16:14:22: [mapconfigs.smx] Searching specific configs for mg_damons_canyon
+L 05/28/2020 - 16:14:22: [mapchooser_extended.smx] No official map list found for csgo. Consider submitting one!
+L 05/28/2020 - 16:14:23: [drapi_timer_replay.smx] Auto: 
+L 05/28/2020 - 16:34:14: SourceMod log file session started (file "C:\servers\exofenscourse\csgo\addons\sourcemod\logs\L20200528.log") (Version "1.10.0.6488")
+L 05/28/2020 - 16:34:14: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 05/28/2020 - 16:34:14: [simple-chatprocessor.smx] [SCP] Recognized mod [Counter-Strike: GO].
+L 05/28/2020 - 16:34:14: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.csgo.phrases].
+L 05/28/2020 - 16:34:16: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_falldamage") (value "0")
+L 05/28/2020 - 16:34:16: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_warmuptime") (value "15")
+L 05/28/2020 - 16:34:16: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "phys_pushscale") (value "2")
+L 05/28/2020 - 16:34:16: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_accelerate") (value "6.500000")
+L 05/28/2020 - 16:34:16: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_airaccelerate") (value "150")
+L 05/28/2020 - 16:34:16: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxvelocity") (value "4000")
+L 05/28/2020 - 16:34:16: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_force") (value "30000")
+L 05/28/2020 - 16:34:16: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_max_force") (value "230000")
+L 05/28/2020 - 16:34:16: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_min_player_speed") (value "70")
+L 05/28/2020 - 16:34:16: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_turbophysics") (value "1")
+L 05/28/2020 - 16:34:16: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_wateraccelerate") (value "150")
+L 05/28/2020 - 16:34:16: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 05/28/2020 - 16:34:16: [mapconfigs.smx] Searching specific configs for mg_damons_canyon
+L 05/28/2020 - 16:34:16: [drapi_timer_replay.smx] Auto: 
+L 05/28/2020 - 16:34:16: [mapchooser_extended.smx] No official map list found for csgo. Consider submitting one!
+L 05/28/2020 - 16:34:16: [drapi_timer_replay.smx] (1)Auto: 
+L 05/28/2020 - 16:34:17: [drapi_timer_replay.smx] (2)Auto: 
+L 05/28/2020 - 16:35:47: -------- Mapchange to mg_damons_canyon --------
+L 05/28/2020 - 16:35:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_death_drop_gun") (value "1")
+L 05/28/2020 - 16:35:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_accelerate") (value "5.6")
+L 05/28/2020 - 16:35:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_wateraccelerate") (value "150")
+L 05/28/2020 - 16:35:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_airaccelerate") (value "1000")
+L 05/28/2020 - 16:35:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxvelocity") (value "4000")
+L 05/28/2020 - 16:35:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 05/28/2020 - 16:35:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_falldamage") (value "0")
+L 05/28/2020 - 16:35:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "phys_pushscale") (value "2")
+L 05/28/2020 - 16:35:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "cs_enable_player_physics_box") (value "1")
+L 05/28/2020 - 16:35:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_falldamage") (value "0")
+L 05/28/2020 - 16:35:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_warmuptime") (value "15")
+L 05/28/2020 - 16:35:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "phys_pushscale") (value "2")
+L 05/28/2020 - 16:35:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_accelerate") (value "6.500000")
+L 05/28/2020 - 16:35:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_airaccelerate") (value "150")
+L 05/28/2020 - 16:35:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxvelocity") (value "4000")
+L 05/28/2020 - 16:35:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_force") (value "30000")
+L 05/28/2020 - 16:35:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_max_force") (value "230000")
+L 05/28/2020 - 16:35:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_min_player_speed") (value "70")
+L 05/28/2020 - 16:35:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_turbophysics") (value "1")
+L 05/28/2020 - 16:35:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_wateraccelerate") (value "150")
+L 05/28/2020 - 16:35:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 05/28/2020 - 16:35:48: [mapconfigs.smx] Searching specific configs for mg_damons_canyon
+L 05/28/2020 - 16:35:48: [drapi_timer_replay.smx] Auto: 
+L 05/28/2020 - 16:35:48: [mapchooser_extended.smx] No official map list found for csgo. Consider submitting one!
+L 05/28/2020 - 16:35:48: [drapi_timer_replay.smx] (1)Auto: 
+L 05/28/2020 - 16:35:49: [drapi_timer_replay.smx] (2)Auto: 
+L 05/28/2020 - 16:36:34: [drapi_timer_replay.smx] addons\sourcemod\data\botmimic\bhop\wr\mg_damons_canyon/1590701791.rec
+L 05/28/2020 - 16:36:34: [drapi_timer_replay.smx] Legit: addons\sourcemod\data\botmimic\bhop\wr\mg_damons_canyon/1590701791.rec
+L 05/28/2020 - 16:49:46: -------- Mapchange to mg_damons_canyon --------
+L 05/28/2020 - 16:49:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_death_drop_gun") (value "1")
+L 05/28/2020 - 16:49:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_accelerate") (value "5.6")
+L 05/28/2020 - 16:49:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_wateraccelerate") (value "150")
+L 05/28/2020 - 16:49:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_airaccelerate") (value "1000")
+L 05/28/2020 - 16:49:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxvelocity") (value "4000")
+L 05/28/2020 - 16:49:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 05/28/2020 - 16:49:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_falldamage") (value "0")
+L 05/28/2020 - 16:49:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "phys_pushscale") (value "2")
+L 05/28/2020 - 16:49:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "cs_enable_player_physics_box") (value "1")
+L 05/28/2020 - 16:49:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_falldamage") (value "0")
+L 05/28/2020 - 16:49:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_warmuptime") (value "15")
+L 05/28/2020 - 16:49:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "phys_pushscale") (value "2")
+L 05/28/2020 - 16:49:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_accelerate") (value "6.500000")
+L 05/28/2020 - 16:49:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_airaccelerate") (value "150")
+L 05/28/2020 - 16:49:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxvelocity") (value "4000")
+L 05/28/2020 - 16:49:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_force") (value "30000")
+L 05/28/2020 - 16:49:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_max_force") (value "230000")
+L 05/28/2020 - 16:49:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_min_player_speed") (value "70")
+L 05/28/2020 - 16:49:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_turbophysics") (value "1")
+L 05/28/2020 - 16:49:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_wateraccelerate") (value "150")
+L 05/28/2020 - 16:49:46: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 05/28/2020 - 16:49:46: [mapconfigs.smx] Searching specific configs for mg_damons_canyon
+L 05/28/2020 - 16:49:46: [drapi_timer_replay.smx] Legit: addons\sourcemod\data\botmimic\bhop\wr\mg_damons_canyon/1590701791.rec
+L 05/28/2020 - 16:49:46: [mapchooser_extended.smx] No official map list found for csgo. Consider submitting one!
+L 05/28/2020 - 16:49:46: [drapi_timer_replay.smx] (1)Legit: addons\sourcemod\data\botmimic\bhop\wr\mg_damons_canyon/1590701791.rec
+L 05/28/2020 - 16:49:47: [drapi_timer_replay.smx] (2)Legit: addons\sourcemod\data\botmimic\bhop\wr\mg_damons_canyon/1590701791.rec
+L 05/28/2020 - 16:50:03: [drapi_timer_replay.smx] addons\sourcemod\data\botmimic\bhop\wr\mg_damons_canyon/1590701791.rec
+L 05/28/2020 - 16:52:24: SourceMod log file session started (file "C:\servers\exofenscourse\csgo\addons\sourcemod\logs\L20200528.log") (Version "1.10.0.6488")
+L 05/28/2020 - 16:52:24: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 05/28/2020 - 16:52:24: [simple-chatprocessor.smx] [SCP] Recognized mod [Counter-Strike: GO].
+L 05/28/2020 - 16:52:24: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.csgo.phrases].
+L 05/28/2020 - 16:52:26: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_falldamage") (value "0")
+L 05/28/2020 - 16:52:26: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_warmuptime") (value "15")
+L 05/28/2020 - 16:52:26: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "phys_pushscale") (value "2")
+L 05/28/2020 - 16:52:26: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_accelerate") (value "6.500000")
+L 05/28/2020 - 16:52:26: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_airaccelerate") (value "150")
+L 05/28/2020 - 16:52:26: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxvelocity") (value "4000")
+L 05/28/2020 - 16:52:26: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_force") (value "30000")
+L 05/28/2020 - 16:52:26: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_max_force") (value "230000")
+L 05/28/2020 - 16:52:26: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_min_player_speed") (value "70")
+L 05/28/2020 - 16:52:26: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_turbophysics") (value "1")
+L 05/28/2020 - 16:52:26: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_wateraccelerate") (value "150")
+L 05/28/2020 - 16:52:26: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 05/28/2020 - 16:52:26: [mapconfigs.smx] Searching specific configs for mg_damons_canyon
+L 05/28/2020 - 16:52:26: [drapi_timer_replay.smx] Auto: 
+L 05/28/2020 - 16:52:26: [mapchooser_extended.smx] No official map list found for csgo. Consider submitting one!
+L 05/28/2020 - 16:52:27: [drapi_timer_replay.smx] (1)Auto: 
+L 05/28/2020 - 16:52:41: [drapi_timer_replay.smx] addons\sourcemod\data\botmimic\bhop\wr\mg_damons_canyon/1590701791.rec
+L 05/28/2020 - 16:52:41: [drapi_timer_replay.smx] Legit: addons\sourcemod\data\botmimic\bhop\wr\mg_damons_canyon/1590701791.rec
+L 05/28/2020 - 16:53:17: -------- Mapchange to mg_damons_canyon --------
+L 05/28/2020 - 16:53:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_death_drop_gun") (value "1")
+L 05/28/2020 - 16:53:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_accelerate") (value "5.6")
+L 05/28/2020 - 16:53:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_wateraccelerate") (value "150")
+L 05/28/2020 - 16:53:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_airaccelerate") (value "1000")
+L 05/28/2020 - 16:53:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxvelocity") (value "4000")
+L 05/28/2020 - 16:53:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 05/28/2020 - 16:53:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_falldamage") (value "0")
+L 05/28/2020 - 16:53:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "phys_pushscale") (value "2")
+L 05/28/2020 - 16:53:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "cs_enable_player_physics_box") (value "1")
+L 05/28/2020 - 16:53:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_falldamage") (value "0")
+L 05/28/2020 - 16:53:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_warmuptime") (value "15")
+L 05/28/2020 - 16:53:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "phys_pushscale") (value "2")
+L 05/28/2020 - 16:53:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_accelerate") (value "6.500000")
+L 05/28/2020 - 16:53:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_airaccelerate") (value "150")
+L 05/28/2020 - 16:53:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxvelocity") (value "4000")
+L 05/28/2020 - 16:53:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_force") (value "30000")
+L 05/28/2020 - 16:53:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_max_force") (value "230000")
+L 05/28/2020 - 16:53:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_min_player_speed") (value "70")
+L 05/28/2020 - 16:53:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_turbophysics") (value "1")
+L 05/28/2020 - 16:53:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_wateraccelerate") (value "150")
+L 05/28/2020 - 16:53:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 05/28/2020 - 16:53:17: [mapconfigs.smx] Searching specific configs for mg_damons_canyon
+L 05/28/2020 - 16:53:17: [drapi_timer_replay.smx] Legit: addons\sourcemod\data\botmimic\bhop\wr\mg_damons_canyon/1590701791.rec
+L 05/28/2020 - 16:53:17: [mapchooser_extended.smx] No official map list found for csgo. Consider submitting one!
+L 05/28/2020 - 16:53:18: [drapi_timer_replay.smx] (1)Legit: addons\sourcemod\data\botmimic\bhop\wr\mg_damons_canyon/1590701791.rec
+L 05/28/2020 - 16:53:36: [drapi_timer_replay.smx] addons\sourcemod\data\botmimic\bhop\wr\mg_damons_canyon/1590701791.rec
+L 05/28/2020 - 16:57:26: SourceMod log file session started (file "C:\servers\exofenscourse\csgo\addons\sourcemod\logs\L20200528.log") (Version "1.10.0.6488")
+L 05/28/2020 - 16:57:26: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 05/28/2020 - 16:57:26: [simple-chatprocessor.smx] [SCP] Recognized mod [Counter-Strike: GO].
+L 05/28/2020 - 16:57:26: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.csgo.phrases].
+L 05/28/2020 - 16:57:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_falldamage") (value "0")
+L 05/28/2020 - 16:57:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_warmuptime") (value "15")
+L 05/28/2020 - 16:57:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "phys_pushscale") (value "2")
+L 05/28/2020 - 16:57:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_accelerate") (value "6.500000")
+L 05/28/2020 - 16:57:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_airaccelerate") (value "150")
+L 05/28/2020 - 16:57:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxvelocity") (value "4000")
+L 05/28/2020 - 16:57:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_force") (value "30000")
+L 05/28/2020 - 16:57:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_max_force") (value "230000")
+L 05/28/2020 - 16:57:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_min_player_speed") (value "70")
+L 05/28/2020 - 16:57:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_turbophysics") (value "1")
+L 05/28/2020 - 16:57:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_wateraccelerate") (value "150")
+L 05/28/2020 - 16:57:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 05/28/2020 - 16:57:28: [mapconfigs.smx] Searching specific configs for mg_damons_canyon
+L 05/28/2020 - 16:57:28: [drapi_timer_replay.smx] Auto: 
+L 05/28/2020 - 16:57:28: [mapchooser_extended.smx] No official map list found for csgo. Consider submitting one!
+L 05/28/2020 - 16:57:29: [drapi_timer_replay.smx] (1)Auto: 
+L 05/28/2020 - 16:57:40: -------- Mapchange to mg_damons_canyon --------
+L 05/28/2020 - 16:57:40: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_death_drop_gun") (value "1")
+L 05/28/2020 - 16:57:40: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_accelerate") (value "5.6")
+L 05/28/2020 - 16:57:40: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_wateraccelerate") (value "150")
+L 05/28/2020 - 16:57:40: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_airaccelerate") (value "1000")
+L 05/28/2020 - 16:57:40: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxvelocity") (value "4000")
+L 05/28/2020 - 16:57:40: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 05/28/2020 - 16:57:40: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_falldamage") (value "0")
+L 05/28/2020 - 16:57:40: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "phys_pushscale") (value "2")
+L 05/28/2020 - 16:57:40: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "cs_enable_player_physics_box") (value "1")
+L 05/28/2020 - 16:57:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_falldamage") (value "0")
+L 05/28/2020 - 16:57:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_warmuptime") (value "15")
+L 05/28/2020 - 16:57:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "phys_pushscale") (value "2")
+L 05/28/2020 - 16:57:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_accelerate") (value "6.500000")
+L 05/28/2020 - 16:57:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_airaccelerate") (value "150")
+L 05/28/2020 - 16:57:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxvelocity") (value "4000")
+L 05/28/2020 - 16:57:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_force") (value "30000")
+L 05/28/2020 - 16:57:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_max_force") (value "230000")
+L 05/28/2020 - 16:57:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_min_player_speed") (value "70")
+L 05/28/2020 - 16:57:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_turbophysics") (value "1")
+L 05/28/2020 - 16:57:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_wateraccelerate") (value "150")
+L 05/28/2020 - 16:57:41: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 05/28/2020 - 16:57:41: [mapconfigs.smx] Searching specific configs for mg_damons_canyon
+L 05/28/2020 - 16:57:41: [drapi_timer_replay.smx] Auto: 
+L 05/28/2020 - 16:57:41: [mapchooser_extended.smx] No official map list found for csgo. Consider submitting one!
+L 05/28/2020 - 16:57:42: [drapi_timer_replay.smx] (1)Auto: 
+L 05/28/2020 - 16:57:56: [drapi_timer_replay.smx] addons\sourcemod\data\botmimic\bhop\wr\mg_damons_canyon/1590701791.rec
+L 05/28/2020 - 16:57:56: [drapi_timer_replay.smx] Legit: addons\sourcemod\data\botmimic\bhop\wr\mg_damons_canyon/1590701791.rec
+L 05/28/2020 - 16:58:04: [drapi_timer_replay.smx] addons\sourcemod\data\botmimic\bhop\wr\mg_damons_canyon/1590701791.rec
+L 05/28/2020 - 16:58:35: [drapi_timer_replay.smx] addons\sourcemod\data\botmimic\bhop\wr\mg_damons_canyon/1590703111.rec
+L 05/28/2020 - 17:12:57: SourceMod log file session started (file "C:\servers\exofenscourse\csgo\addons\sourcemod\logs\L20200528.log") (Version "1.10.0.6488")
+L 05/28/2020 - 17:12:57: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 05/28/2020 - 17:12:57: [simple-chatprocessor.smx] [SCP] Recognized mod [Counter-Strike: GO].
+L 05/28/2020 - 17:12:57: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.csgo.phrases].
+L 05/28/2020 - 17:12:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_falldamage") (value "0")
+L 05/28/2020 - 17:12:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_warmuptime") (value "15")
+L 05/28/2020 - 17:12:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "phys_pushscale") (value "2")
+L 05/28/2020 - 17:12:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_accelerate") (value "6.500000")
+L 05/28/2020 - 17:12:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_airaccelerate") (value "150")
+L 05/28/2020 - 17:12:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxvelocity") (value "4000")
+L 05/28/2020 - 17:12:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_force") (value "30000")
+L 05/28/2020 - 17:12:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_max_force") (value "230000")
+L 05/28/2020 - 17:12:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_min_player_speed") (value "70")
+L 05/28/2020 - 17:12:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_turbophysics") (value "1")
+L 05/28/2020 - 17:12:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_wateraccelerate") (value "150")
+L 05/28/2020 - 17:12:59: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 05/28/2020 - 17:12:59: [mapconfigs.smx] Searching specific configs for mg_damons_canyon
+L 05/28/2020 - 17:12:59: [mapchooser_extended.smx] No official map list found for csgo. Consider submitting one!
+L 05/28/2020 - 17:13:45: -------- Mapchange to mg_damons_canyon --------
+L 05/28/2020 - 17:13:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_death_drop_gun") (value "1")
+L 05/28/2020 - 17:13:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_accelerate") (value "5.6")
+L 05/28/2020 - 17:13:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_wateraccelerate") (value "150")
+L 05/28/2020 - 17:13:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_airaccelerate") (value "1000")
+L 05/28/2020 - 17:13:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxvelocity") (value "4000")
+L 05/28/2020 - 17:13:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 05/28/2020 - 17:13:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_falldamage") (value "0")
+L 05/28/2020 - 17:13:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "phys_pushscale") (value "2")
+L 05/28/2020 - 17:13:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "cs_enable_player_physics_box") (value "1")
+L 05/28/2020 - 17:13:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_falldamage") (value "0")
+L 05/28/2020 - 17:13:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_warmuptime") (value "15")
+L 05/28/2020 - 17:13:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "phys_pushscale") (value "2")
+L 05/28/2020 - 17:13:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_accelerate") (value "6.500000")
+L 05/28/2020 - 17:13:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_airaccelerate") (value "150")
+L 05/28/2020 - 17:13:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxvelocity") (value "4000")
+L 05/28/2020 - 17:13:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_force") (value "30000")
+L 05/28/2020 - 17:13:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_max_force") (value "230000")
+L 05/28/2020 - 17:13:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_min_player_speed") (value "70")
+L 05/28/2020 - 17:13:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_turbophysics") (value "1")
+L 05/28/2020 - 17:13:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_wateraccelerate") (value "150")
+L 05/28/2020 - 17:13:45: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 05/28/2020 - 17:13:45: [mapconfigs.smx] Searching specific configs for mg_damons_canyon
+L 05/28/2020 - 17:13:45: [mapchooser_extended.smx] No official map list found for csgo. Consider submitting one!
+L 05/28/2020 - 17:17:28: SourceMod log file session started (file "C:\servers\exofenscourse\csgo\addons\sourcemod\logs\L20200528.log") (Version "1.10.0.6488")
+L 05/28/2020 - 17:17:28: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 05/28/2020 - 17:17:28: [simple-chatprocessor.smx] [SCP] Recognized mod [Counter-Strike: GO].
+L 05/28/2020 - 17:17:28: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.csgo.phrases].
+L 05/28/2020 - 17:17:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_falldamage") (value "0")
+L 05/28/2020 - 17:17:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_warmuptime") (value "15")
+L 05/28/2020 - 17:17:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "phys_pushscale") (value "2")
+L 05/28/2020 - 17:17:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_accelerate") (value "6.500000")
+L 05/28/2020 - 17:17:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_airaccelerate") (value "150")
+L 05/28/2020 - 17:17:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxvelocity") (value "4000")
+L 05/28/2020 - 17:17:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_force") (value "30000")
+L 05/28/2020 - 17:17:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_max_force") (value "230000")
+L 05/28/2020 - 17:17:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_min_player_speed") (value "70")
+L 05/28/2020 - 17:17:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_turbophysics") (value "1")
+L 05/28/2020 - 17:17:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_wateraccelerate") (value "150")
+L 05/28/2020 - 17:17:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 05/28/2020 - 17:17:30: [mapconfigs.smx] Searching specific configs for mg_damons_canyon
+L 05/28/2020 - 17:17:30: [mapchooser_extended.smx] No official map list found for csgo. Consider submitting one!
+L 05/28/2020 - 17:18:21: SourceMod log file session started (file "C:\servers\exofenscourse\csgo\addons\sourcemod\logs\L20200528.log") (Version "1.10.0.6488")
+L 05/28/2020 - 17:18:21: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 05/28/2020 - 17:18:21: [simple-chatprocessor.smx] [SCP] Recognized mod [Counter-Strike: GO].
+L 05/28/2020 - 17:18:21: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.csgo.phrases].
+L 05/28/2020 - 17:18:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_falldamage") (value "0")
+L 05/28/2020 - 17:18:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_warmuptime") (value "15")
+L 05/28/2020 - 17:18:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "phys_pushscale") (value "2")
+L 05/28/2020 - 17:18:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_accelerate") (value "6.500000")
+L 05/28/2020 - 17:18:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_airaccelerate") (value "150")
+L 05/28/2020 - 17:18:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxvelocity") (value "4000")
+L 05/28/2020 - 17:18:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_force") (value "30000")
+L 05/28/2020 - 17:18:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_max_force") (value "230000")
+L 05/28/2020 - 17:18:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_min_player_speed") (value "70")
+L 05/28/2020 - 17:18:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_turbophysics") (value "1")
+L 05/28/2020 - 17:18:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_wateraccelerate") (value "150")
+L 05/28/2020 - 17:18:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 05/28/2020 - 17:18:22: [mapconfigs.smx] Searching specific configs for mg_damons_canyon
+L 05/28/2020 - 17:18:22: [mapchooser_extended.smx] No official map list found for csgo. Consider submitting one!
+L 05/28/2020 - 17:18:32: -------- Mapchange to mg_damons_canyon --------
+L 05/28/2020 - 17:18:32: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_death_drop_gun") (value "1")
+L 05/28/2020 - 17:18:32: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_accelerate") (value "5.6")
+L 05/28/2020 - 17:18:32: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_wateraccelerate") (value "150")
+L 05/28/2020 - 17:18:32: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_airaccelerate") (value "1000")
+L 05/28/2020 - 17:18:32: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxvelocity") (value "4000")
+L 05/28/2020 - 17:18:32: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 05/28/2020 - 17:18:32: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_falldamage") (value "0")
+L 05/28/2020 - 17:18:32: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "phys_pushscale") (value "2")
+L 05/28/2020 - 17:18:32: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "cs_enable_player_physics_box") (value "1")
+L 05/28/2020 - 17:18:32: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_falldamage") (value "0")
+L 05/28/2020 - 17:18:32: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_warmuptime") (value "15")
+L 05/28/2020 - 17:18:32: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "phys_pushscale") (value "2")
+L 05/28/2020 - 17:18:32: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_accelerate") (value "6.500000")
+L 05/28/2020 - 17:18:32: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_airaccelerate") (value "150")
+L 05/28/2020 - 17:18:32: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxvelocity") (value "4000")
+L 05/28/2020 - 17:18:32: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_force") (value "30000")
+L 05/28/2020 - 17:18:32: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_max_force") (value "230000")
+L 05/28/2020 - 17:18:32: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_min_player_speed") (value "70")
+L 05/28/2020 - 17:18:32: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_turbophysics") (value "1")
+L 05/28/2020 - 17:18:32: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_wateraccelerate") (value "150")
+L 05/28/2020 - 17:18:32: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 05/28/2020 - 17:18:32: [mapconfigs.smx] Searching specific configs for mg_damons_canyon
+L 05/28/2020 - 17:18:32: [mapchooser_extended.smx] No official map list found for csgo. Consider submitting one!
+L 05/28/2020 - 18:00:27: SourceMod log file session started (file "C:\servers\exofenscourse\csgo\addons\sourcemod\logs\L20200528.log") (Version "1.10.0.6488")
+L 05/28/2020 - 18:00:27: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 05/28/2020 - 18:00:27: [simple-chatprocessor.smx] [SCP] Recognized mod [Counter-Strike: GO].
+L 05/28/2020 - 18:00:27: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.csgo.phrases].
+L 05/28/2020 - 18:00:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_falldamage") (value "0")
+L 05/28/2020 - 18:00:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_warmuptime") (value "15")
+L 05/28/2020 - 18:00:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "phys_pushscale") (value "2")
+L 05/28/2020 - 18:00:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_accelerate") (value "6.500000")
+L 05/28/2020 - 18:00:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_airaccelerate") (value "150")
+L 05/28/2020 - 18:00:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxvelocity") (value "4000")
+L 05/28/2020 - 18:00:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_force") (value "30000")
+L 05/28/2020 - 18:00:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_max_force") (value "230000")
+L 05/28/2020 - 18:00:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_min_player_speed") (value "70")
+L 05/28/2020 - 18:00:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_turbophysics") (value "1")
+L 05/28/2020 - 18:00:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_wateraccelerate") (value "150")
+L 05/28/2020 - 18:00:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 05/28/2020 - 18:00:28: [mapconfigs.smx] Searching specific configs for mg_damons_canyon
+L 05/28/2020 - 18:00:29: [mapchooser_extended.smx] No official map list found for csgo. Consider submitting one!
+L 05/28/2020 - 18:18:31: SourceMod log file session started (file "C:\servers\exofenscourse\csgo\addons\sourcemod\logs\L20200528.log") (Version "1.10.0.6488")
+L 05/28/2020 - 18:18:31: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 05/28/2020 - 18:18:31: [simple-chatprocessor.smx] [SCP] Recognized mod [Counter-Strike: GO].
+L 05/28/2020 - 18:18:31: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.csgo.phrases].
+L 05/28/2020 - 18:18:33: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_falldamage") (value "0")
+L 05/28/2020 - 18:18:33: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_warmuptime") (value "15")
+L 05/28/2020 - 18:18:33: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "phys_pushscale") (value "2")
+L 05/28/2020 - 18:18:33: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_accelerate") (value "6.500000")
+L 05/28/2020 - 18:18:33: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_airaccelerate") (value "150")
+L 05/28/2020 - 18:18:33: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxvelocity") (value "4000")
+L 05/28/2020 - 18:18:33: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_force") (value "30000")
+L 05/28/2020 - 18:18:33: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_max_force") (value "230000")
+L 05/28/2020 - 18:18:33: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_min_player_speed") (value "70")
+L 05/28/2020 - 18:18:33: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_turbophysics") (value "1")
+L 05/28/2020 - 18:18:33: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_wateraccelerate") (value "150")
+L 05/28/2020 - 18:18:33: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 05/28/2020 - 18:18:33: [mapconfigs.smx] Searching specific configs for mg_damons_canyon
+L 05/28/2020 - 18:18:33: [mapchooser_extended.smx] No official map list found for csgo. Consider submitting one!
+L 05/28/2020 - 18:18:47: -------- Mapchange to mg_damons_canyon --------
+L 05/28/2020 - 18:18:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_death_drop_gun") (value "1")
+L 05/28/2020 - 18:18:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_accelerate") (value "5.6")
+L 05/28/2020 - 18:18:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_wateraccelerate") (value "150")
+L 05/28/2020 - 18:18:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_airaccelerate") (value "1000")
+L 05/28/2020 - 18:18:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxvelocity") (value "4000")
+L 05/28/2020 - 18:18:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 05/28/2020 - 18:18:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_falldamage") (value "0")
+L 05/28/2020 - 18:18:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "phys_pushscale") (value "2")
+L 05/28/2020 - 18:18:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "cs_enable_player_physics_box") (value "1")
+L 05/28/2020 - 18:18:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_falldamage") (value "0")
+L 05/28/2020 - 18:18:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_warmuptime") (value "15")
+L 05/28/2020 - 18:18:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "phys_pushscale") (value "2")
+L 05/28/2020 - 18:18:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_accelerate") (value "6.500000")
+L 05/28/2020 - 18:18:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_airaccelerate") (value "150")
+L 05/28/2020 - 18:18:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxvelocity") (value "4000")
+L 05/28/2020 - 18:18:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_force") (value "30000")
+L 05/28/2020 - 18:18:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_max_force") (value "230000")
+L 05/28/2020 - 18:18:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_min_player_speed") (value "70")
+L 05/28/2020 - 18:18:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_turbophysics") (value "1")
+L 05/28/2020 - 18:18:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_wateraccelerate") (value "150")
+L 05/28/2020 - 18:18:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 05/28/2020 - 18:18:47: [mapconfigs.smx] Searching specific configs for mg_damons_canyon
+L 05/28/2020 - 18:18:47: [mapchooser_extended.smx] No official map list found for csgo. Consider submitting one!
+L 05/28/2020 - 19:00:28: SourceMod log file session started (file "C:\servers\exofenscourse\csgo\addons\sourcemod\logs\L20200528.log") (Version "1.10.0.6488")
+L 05/28/2020 - 19:00:28: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 05/28/2020 - 19:00:28: [simple-chatprocessor.smx] [SCP] Recognized mod [Counter-Strike: GO].
+L 05/28/2020 - 19:00:28: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.csgo.phrases].
+L 05/28/2020 - 19:00:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_falldamage") (value "0")
+L 05/28/2020 - 19:00:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_warmuptime") (value "15")
+L 05/28/2020 - 19:00:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "phys_pushscale") (value "2")
+L 05/28/2020 - 19:00:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_accelerate") (value "6.500000")
+L 05/28/2020 - 19:00:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_airaccelerate") (value "150")
+L 05/28/2020 - 19:00:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxvelocity") (value "4000")
+L 05/28/2020 - 19:00:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_force") (value "30000")
+L 05/28/2020 - 19:00:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_max_force") (value "230000")
+L 05/28/2020 - 19:00:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_min_player_speed") (value "70")
+L 05/28/2020 - 19:00:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_turbophysics") (value "1")
+L 05/28/2020 - 19:00:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_wateraccelerate") (value "150")
+L 05/28/2020 - 19:00:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 05/28/2020 - 19:00:30: [mapconfigs.smx] Searching specific configs for mg_damons_canyon
+L 05/28/2020 - 19:00:30: [mapchooser_extended.smx] No official map list found for csgo. Consider submitting one!
+L 05/28/2020 - 19:23:52: -------- Mapchange to mg_damons_canyon --------
+L 05/28/2020 - 19:23:52: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_death_drop_gun") (value "1")
+L 05/28/2020 - 19:23:52: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_accelerate") (value "5.6")
+L 05/28/2020 - 19:23:52: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_wateraccelerate") (value "150")
+L 05/28/2020 - 19:23:52: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_airaccelerate") (value "1000")
+L 05/28/2020 - 19:23:52: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxvelocity") (value "4000")
+L 05/28/2020 - 19:23:52: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 05/28/2020 - 19:23:52: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_falldamage") (value "0")
+L 05/28/2020 - 19:23:52: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "phys_pushscale") (value "2")
+L 05/28/2020 - 19:23:52: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "cs_enable_player_physics_box") (value "1")
+L 05/28/2020 - 19:23:52: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_falldamage") (value "0")
+L 05/28/2020 - 19:23:52: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_warmuptime") (value "15")
+L 05/28/2020 - 19:23:52: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "phys_pushscale") (value "2")
+L 05/28/2020 - 19:23:52: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_accelerate") (value "6.500000")
+L 05/28/2020 - 19:23:52: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_airaccelerate") (value "150")
+L 05/28/2020 - 19:23:52: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxvelocity") (value "4000")
+L 05/28/2020 - 19:23:52: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_force") (value "30000")
+L 05/28/2020 - 19:23:52: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_max_force") (value "230000")
+L 05/28/2020 - 19:23:52: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_min_player_speed") (value "70")
+L 05/28/2020 - 19:23:52: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_turbophysics") (value "1")
+L 05/28/2020 - 19:23:52: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_wateraccelerate") (value "150")
+L 05/28/2020 - 19:23:52: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 05/28/2020 - 19:23:52: [mapconfigs.smx] Searching specific configs for mg_damons_canyon
+L 05/28/2020 - 19:23:52: [mapchooser_extended.smx] No official map list found for csgo. Consider submitting one!
+L 05/28/2020 - 19:25:22: [basecommands.smx] "Exotic<4><STEAM_1:0:119733263><>" refreshed the admin cache.
+L 05/28/2020 - 19:25:23: [basecommands.smx] "Exotic<4><STEAM_1:0:119733263><>" refreshed the admin cache.
+L 05/28/2020 - 19:25:23: [basecommands.smx] "Exotic<4><STEAM_1:0:119733263><>" refreshed the admin cache.
+L 05/28/2020 - 19:25:24: [basecommands.smx] "Exotic<4><STEAM_1:0:119733263><>" executed config (file "server.cfg")
+L 05/28/2020 - 19:25:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_death_drop_gun") (value "1")
+L 05/28/2020 - 19:25:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_accelerate") (value "5.6")
+L 05/28/2020 - 19:25:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_wateraccelerate") (value "150")
+L 05/28/2020 - 19:25:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_airaccelerate") (value "1000")
+L 05/28/2020 - 19:25:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxvelocity") (value "4000")
+L 05/28/2020 - 19:25:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 05/28/2020 - 19:25:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_falldamage") (value "0")
+L 05/28/2020 - 19:25:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "phys_pushscale") (value "2")
+L 05/28/2020 - 19:25:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "cs_enable_player_physics_box") (value "1")
+L 05/28/2020 - 19:25:43: [basecommands.smx] "Exotic<4><STEAM_1:0:119733263><>" executed config (file "sourcemod/sm_warmode_on.cfg")
+L 05/28/2020 - 19:25:48: [basecommands.smx] "Exotic<4><STEAM_1:0:119733263><>" executed config (file "server.cfg")
+L 05/28/2020 - 19:25:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_death_drop_gun") (value "1")
+L 05/28/2020 - 19:25:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_accelerate") (value "5.6")
+L 05/28/2020 - 19:25:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_wateraccelerate") (value "150")
+L 05/28/2020 - 19:25:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_airaccelerate") (value "1000")
+L 05/28/2020 - 19:25:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxvelocity") (value "4000")
+L 05/28/2020 - 19:25:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 05/28/2020 - 19:25:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_falldamage") (value "0")
+L 05/28/2020 - 19:25:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "phys_pushscale") (value "2")
+L 05/28/2020 - 19:25:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "cs_enable_player_physics_box") (value "1")
+L 05/28/2020 - 19:46:34: [SM] Changed map to "de_dust"
+L 05/28/2020 - 19:46:36: -------- Mapchange to de_dust2 --------
+L 05/28/2020 - 19:46:36: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_death_drop_gun") (value "1")
+L 05/28/2020 - 19:46:36: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_accelerate") (value "5.6")
+L 05/28/2020 - 19:46:36: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_wateraccelerate") (value "150")
+L 05/28/2020 - 19:46:36: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_airaccelerate") (value "1000")
+L 05/28/2020 - 19:46:36: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxvelocity") (value "4000")
+L 05/28/2020 - 19:46:36: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 05/28/2020 - 19:46:36: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_falldamage") (value "0")
+L 05/28/2020 - 19:46:36: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "phys_pushscale") (value "2")
+L 05/28/2020 - 19:46:36: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "cs_enable_player_physics_box") (value "1")
+L 05/28/2020 - 20:07:01: SourceMod log file session started (file "C:\servers\exofenscourse\csgo\addons\sourcemod\logs\L20200528.log") (Version "1.10.0.6488")
+L 05/28/2020 - 20:07:01: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 05/28/2020 - 20:07:01: [simple-chatprocessor.smx] [SCP] Recognized mod [Counter-Strike: GO].
+L 05/28/2020 - 20:07:01: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.csgo.phrases].
+L 05/28/2020 - 20:07:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_falldamage") (value "0")
+L 05/28/2020 - 20:07:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_warmuptime") (value "15")
+L 05/28/2020 - 20:07:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "phys_pushscale") (value "2")
+L 05/28/2020 - 20:07:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_accelerate") (value "6.500000")
+L 05/28/2020 - 20:07:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_airaccelerate") (value "150")
+L 05/28/2020 - 20:07:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxvelocity") (value "4000")
+L 05/28/2020 - 20:07:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_force") (value "30000")
+L 05/28/2020 - 20:07:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_max_force") (value "230000")
+L 05/28/2020 - 20:07:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_min_player_speed") (value "70")
+L 05/28/2020 - 20:07:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_turbophysics") (value "1")
+L 05/28/2020 - 20:07:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_wateraccelerate") (value "150")
+L 05/28/2020 - 20:07:04: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 05/28/2020 - 20:07:04: [mapconfigs.smx] Searching specific configs for mg_damons_canyon
+L 05/28/2020 - 20:07:04: [mapchooser_extended.smx] No official map list found for csgo. Consider submitting one!
+L 05/28/2020 - 20:07:20: -------- Mapchange to mg_damons_canyon --------
+L 05/28/2020 - 20:07:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_death_drop_gun") (value "1")
+L 05/28/2020 - 20:07:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_accelerate") (value "5.6")
+L 05/28/2020 - 20:07:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_wateraccelerate") (value "150")
+L 05/28/2020 - 20:07:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_airaccelerate") (value "1000")
+L 05/28/2020 - 20:07:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxvelocity") (value "4000")
+L 05/28/2020 - 20:07:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 05/28/2020 - 20:07:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_falldamage") (value "0")
+L 05/28/2020 - 20:07:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "phys_pushscale") (value "2")
+L 05/28/2020 - 20:07:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "cs_enable_player_physics_box") (value "1")
+L 05/28/2020 - 20:07:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_falldamage") (value "0")
+L 05/28/2020 - 20:07:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_warmuptime") (value "15")
+L 05/28/2020 - 20:07:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "phys_pushscale") (value "2")
+L 05/28/2020 - 20:07:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_accelerate") (value "6.500000")
+L 05/28/2020 - 20:07:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_airaccelerate") (value "150")
+L 05/28/2020 - 20:07:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxvelocity") (value "4000")
+L 05/28/2020 - 20:07:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_force") (value "30000")
+L 05/28/2020 - 20:07:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_max_force") (value "230000")
+L 05/28/2020 - 20:07:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_min_player_speed") (value "70")
+L 05/28/2020 - 20:07:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_turbophysics") (value "1")
+L 05/28/2020 - 20:07:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_wateraccelerate") (value "150")
+L 05/28/2020 - 20:07:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 05/28/2020 - 20:07:20: [mapconfigs.smx] Searching specific configs for mg_damons_canyon
+L 05/28/2020 - 20:07:20: [mapchooser_extended.smx] No official map list found for csgo. Consider submitting one!
+L 05/28/2020 - 20:08:56: SourceMod log file session started (file "C:\servers\exofenscourse\csgo\addons\sourcemod\logs\L20200528.log") (Version "1.10.0.6488")
+L 05/28/2020 - 20:08:56: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 05/28/2020 - 20:08:56: [simple-chatprocessor.smx] [SCP] Recognized mod [Counter-Strike: GO].
+L 05/28/2020 - 20:08:56: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.csgo.phrases].
+L 05/28/2020 - 20:08:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_falldamage") (value "0")
+L 05/28/2020 - 20:08:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_warmuptime") (value "15")
+L 05/28/2020 - 20:08:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "phys_pushscale") (value "2")
+L 05/28/2020 - 20:08:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_accelerate") (value "6.500000")
+L 05/28/2020 - 20:08:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_airaccelerate") (value "150")
+L 05/28/2020 - 20:08:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxvelocity") (value "4000")
+L 05/28/2020 - 20:08:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_force") (value "30000")
+L 05/28/2020 - 20:08:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_max_force") (value "230000")
+L 05/28/2020 - 20:08:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_min_player_speed") (value "70")
+L 05/28/2020 - 20:08:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_turbophysics") (value "1")
+L 05/28/2020 - 20:08:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_wateraccelerate") (value "150")
+L 05/28/2020 - 20:08:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 05/28/2020 - 20:08:58: [mapconfigs.smx] Searching specific configs for mg_damons_canyon
+L 05/28/2020 - 20:08:58: [mapchooser_extended.smx] No official map list found for csgo. Consider submitting one!
+L 05/28/2020 - 20:09:15: -------- Mapchange to mg_damons_canyon --------
+L 05/28/2020 - 20:09:15: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_death_drop_gun") (value "1")
+L 05/28/2020 - 20:09:15: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_accelerate") (value "5.6")
+L 05/28/2020 - 20:09:15: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_wateraccelerate") (value "150")
+L 05/28/2020 - 20:09:15: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_airaccelerate") (value "1000")
+L 05/28/2020 - 20:09:15: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxvelocity") (value "4000")
+L 05/28/2020 - 20:09:15: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 05/28/2020 - 20:09:15: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_falldamage") (value "0")
+L 05/28/2020 - 20:09:15: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "phys_pushscale") (value "2")
+L 05/28/2020 - 20:09:15: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "cs_enable_player_physics_box") (value "1")
+L 05/28/2020 - 20:09:16: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_falldamage") (value "0")
+L 05/28/2020 - 20:09:16: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_warmuptime") (value "15")
+L 05/28/2020 - 20:09:16: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "phys_pushscale") (value "2")
+L 05/28/2020 - 20:09:16: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_accelerate") (value "6.500000")
+L 05/28/2020 - 20:09:16: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_airaccelerate") (value "150")
+L 05/28/2020 - 20:09:16: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxvelocity") (value "4000")
+L 05/28/2020 - 20:09:16: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_force") (value "30000")
+L 05/28/2020 - 20:09:16: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_max_force") (value "230000")
+L 05/28/2020 - 20:09:16: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_min_player_speed") (value "70")
+L 05/28/2020 - 20:09:16: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_turbophysics") (value "1")
+L 05/28/2020 - 20:09:16: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_wateraccelerate") (value "150")
+L 05/28/2020 - 20:09:16: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 05/28/2020 - 20:09:16: [mapconfigs.smx] Searching specific configs for mg_damons_canyon
+L 05/28/2020 - 20:09:16: [mapchooser_extended.smx] No official map list found for csgo. Consider submitting one!
+L 05/28/2020 - 20:10:08: [basechat.smx] "steven #cute<6><STEAM_1:1:204039010><>" triggered sm_chat (text hi)
+L 05/28/2020 - 20:10:12: [basechat.smx] "steven #cute<6><STEAM_1:1:204039010><>" triggered sm_say (text no)
+L 05/28/2020 - 20:16:19: -------- Mapchange to mg_damons_canyon --------
+L 05/28/2020 - 20:16:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_death_drop_gun") (value "1")
+L 05/28/2020 - 20:16:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_accelerate") (value "5.6")
+L 05/28/2020 - 20:16:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_wateraccelerate") (value "150")
+L 05/28/2020 - 20:16:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_airaccelerate") (value "1000")
+L 05/28/2020 - 20:16:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxvelocity") (value "4000")
+L 05/28/2020 - 20:16:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 05/28/2020 - 20:16:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_falldamage") (value "0")
+L 05/28/2020 - 20:16:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "phys_pushscale") (value "2")
+L 05/28/2020 - 20:16:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "cs_enable_player_physics_box") (value "1")
+L 05/28/2020 - 20:16:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_falldamage") (value "0")
+L 05/28/2020 - 20:16:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_warmuptime") (value "15")
+L 05/28/2020 - 20:16:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "phys_pushscale") (value "2")
+L 05/28/2020 - 20:16:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_accelerate") (value "6.500000")
+L 05/28/2020 - 20:16:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_airaccelerate") (value "150")
+L 05/28/2020 - 20:16:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxvelocity") (value "4000")
+L 05/28/2020 - 20:16:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_force") (value "30000")
+L 05/28/2020 - 20:16:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_max_force") (value "230000")
+L 05/28/2020 - 20:16:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_min_player_speed") (value "70")
+L 05/28/2020 - 20:16:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_turbophysics") (value "1")
+L 05/28/2020 - 20:16:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_wateraccelerate") (value "150")
+L 05/28/2020 - 20:16:19: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 05/28/2020 - 20:16:19: [mapconfigs.smx] Searching specific configs for mg_damons_canyon
+L 05/28/2020 - 20:16:19: [mapchooser_extended.smx] No official map list found for csgo. Consider submitting one!
+L 05/28/2020 - 20:19:37: -------- Mapchange to mg_damons_canyon --------
+L 05/28/2020 - 20:19:37: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_death_drop_gun") (value "1")
+L 05/28/2020 - 20:19:37: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_accelerate") (value "5.6")
+L 05/28/2020 - 20:19:37: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_wateraccelerate") (value "150")
+L 05/28/2020 - 20:19:37: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_airaccelerate") (value "1000")
+L 05/28/2020 - 20:19:37: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxvelocity") (value "4000")
+L 05/28/2020 - 20:19:37: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 05/28/2020 - 20:19:37: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_falldamage") (value "0")
+L 05/28/2020 - 20:19:37: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "phys_pushscale") (value "2")
+L 05/28/2020 - 20:19:37: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "cs_enable_player_physics_box") (value "1")
+L 05/28/2020 - 20:19:37: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_falldamage") (value "0")
+L 05/28/2020 - 20:19:37: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_warmuptime") (value "15")
+L 05/28/2020 - 20:19:37: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "phys_pushscale") (value "2")
+L 05/28/2020 - 20:19:37: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_accelerate") (value "6.500000")
+L 05/28/2020 - 20:19:37: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_airaccelerate") (value "150")
+L 05/28/2020 - 20:19:37: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxvelocity") (value "4000")
+L 05/28/2020 - 20:19:37: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_force") (value "30000")
+L 05/28/2020 - 20:19:37: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_max_force") (value "230000")
+L 05/28/2020 - 20:19:37: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_min_player_speed") (value "70")
+L 05/28/2020 - 20:19:37: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_turbophysics") (value "1")
+L 05/28/2020 - 20:19:37: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_wateraccelerate") (value "150")
+L 05/28/2020 - 20:19:37: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 05/28/2020 - 20:19:37: [mapconfigs.smx] Searching specific configs for mg_damons_canyon
+L 05/28/2020 - 20:19:37: [mapchooser_extended.smx] No official map list found for csgo. Consider submitting one!
+L 05/28/2020 - 20:23:08: -------- Mapchange to mg_damons_canyon --------
+L 05/28/2020 - 20:23:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_death_drop_gun") (value "1")
+L 05/28/2020 - 20:23:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_accelerate") (value "5.6")
+L 05/28/2020 - 20:23:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_wateraccelerate") (value "150")
+L 05/28/2020 - 20:23:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_airaccelerate") (value "1000")
+L 05/28/2020 - 20:23:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxvelocity") (value "4000")
+L 05/28/2020 - 20:23:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 05/28/2020 - 20:23:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_falldamage") (value "0")
+L 05/28/2020 - 20:23:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "phys_pushscale") (value "2")
+L 05/28/2020 - 20:23:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "cs_enable_player_physics_box") (value "1")
+L 05/28/2020 - 20:23:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_falldamage") (value "0")
+L 05/28/2020 - 20:23:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_warmuptime") (value "15")
+L 05/28/2020 - 20:23:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "phys_pushscale") (value "2")
+L 05/28/2020 - 20:23:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_accelerate") (value "6.500000")
+L 05/28/2020 - 20:23:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_airaccelerate") (value "150")
+L 05/28/2020 - 20:23:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxvelocity") (value "4000")
+L 05/28/2020 - 20:23:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_force") (value "30000")
+L 05/28/2020 - 20:23:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_max_force") (value "230000")
+L 05/28/2020 - 20:23:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_min_player_speed") (value "70")
+L 05/28/2020 - 20:23:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_turbophysics") (value "1")
+L 05/28/2020 - 20:23:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_wateraccelerate") (value "150")
+L 05/28/2020 - 20:23:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 05/28/2020 - 20:23:08: [mapconfigs.smx] Searching specific configs for mg_damons_canyon
+L 05/28/2020 - 20:23:08: [mapchooser_extended.smx] No official map list found for csgo. Consider submitting one!
+L 05/28/2020 - 20:27:12: SourceMod log file session started (file "C:\servers\exofenscourse\csgo\addons\sourcemod\logs\L20200528.log") (Version "1.10.0.6488")
+L 05/28/2020 - 20:27:12: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 05/28/2020 - 20:27:12: [simple-chatprocessor.smx] [SCP] Recognized mod [Counter-Strike: GO].
+L 05/28/2020 - 20:27:12: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.csgo.phrases].
+L 05/28/2020 - 20:27:14: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_falldamage") (value "0")
+L 05/28/2020 - 20:27:14: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_warmuptime") (value "15")
+L 05/28/2020 - 20:27:14: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "phys_pushscale") (value "2")
+L 05/28/2020 - 20:27:14: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_accelerate") (value "6.500000")
+L 05/28/2020 - 20:27:14: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_airaccelerate") (value "150")
+L 05/28/2020 - 20:27:14: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxvelocity") (value "4000")
+L 05/28/2020 - 20:27:14: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_force") (value "30000")
+L 05/28/2020 - 20:27:14: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_max_force") (value "230000")
+L 05/28/2020 - 20:27:14: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_min_player_speed") (value "70")
+L 05/28/2020 - 20:27:14: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_turbophysics") (value "1")
+L 05/28/2020 - 20:27:14: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_wateraccelerate") (value "150")
+L 05/28/2020 - 20:27:14: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 05/28/2020 - 20:27:14: [mapconfigs.smx] Searching specific configs for mg_damons_canyon
+L 05/28/2020 - 20:27:14: [mapchooser_extended.smx] No official map list found for csgo. Consider submitting one!
+L 05/28/2020 - 20:27:18: -------- Mapchange to mg_damons_canyon --------
+L 05/28/2020 - 20:27:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_death_drop_gun") (value "1")
+L 05/28/2020 - 20:27:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_accelerate") (value "5.6")
+L 05/28/2020 - 20:27:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_wateraccelerate") (value "150")
+L 05/28/2020 - 20:27:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_airaccelerate") (value "1000")
+L 05/28/2020 - 20:27:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxvelocity") (value "4000")
+L 05/28/2020 - 20:27:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 05/28/2020 - 20:27:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_falldamage") (value "0")
+L 05/28/2020 - 20:27:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "phys_pushscale") (value "2")
+L 05/28/2020 - 20:27:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "cs_enable_player_physics_box") (value "1")
+L 05/28/2020 - 20:27:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_falldamage") (value "0")
+L 05/28/2020 - 20:27:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_warmuptime") (value "15")
+L 05/28/2020 - 20:27:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "phys_pushscale") (value "2")
+L 05/28/2020 - 20:27:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_accelerate") (value "6.500000")
+L 05/28/2020 - 20:27:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_airaccelerate") (value "150")
+L 05/28/2020 - 20:27:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxvelocity") (value "4000")
+L 05/28/2020 - 20:27:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_force") (value "30000")
+L 05/28/2020 - 20:27:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_max_force") (value "230000")
+L 05/28/2020 - 20:27:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_min_player_speed") (value "70")
+L 05/28/2020 - 20:27:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_turbophysics") (value "1")
+L 05/28/2020 - 20:27:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_wateraccelerate") (value "150")
+L 05/28/2020 - 20:27:18: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 05/28/2020 - 20:27:18: [mapconfigs.smx] Searching specific configs for mg_damons_canyon
+L 05/28/2020 - 20:27:18: [mapchooser_extended.smx] No official map list found for csgo. Consider submitting one!
+L 05/28/2020 - 20:29:15: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_death_drop_gun") (value "1")
+L 05/28/2020 - 20:29:15: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_accelerate") (value "5.6")
+L 05/28/2020 - 20:29:15: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_wateraccelerate") (value "150")
+L 05/28/2020 - 20:29:15: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_airaccelerate") (value "1000")
+L 05/28/2020 - 20:29:15: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxvelocity") (value "4000")
+L 05/28/2020 - 20:29:15: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 05/28/2020 - 20:29:15: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_falldamage") (value "0")
+L 05/28/2020 - 20:29:15: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "phys_pushscale") (value "2")
+L 05/28/2020 - 20:29:15: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "cs_enable_player_physics_box") (value "1")
+L 05/28/2020 - 20:32:03: SourceMod log file session started (file "C:\servers\exofenscourse\csgo\addons\sourcemod\logs\L20200528.log") (Version "1.10.0.6488")
+L 05/28/2020 - 20:32:03: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 05/28/2020 - 20:32:03: [simple-chatprocessor.smx] [SCP] Recognized mod [Counter-Strike: GO].
+L 05/28/2020 - 20:32:03: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.csgo.phrases].
+L 05/28/2020 - 20:32:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_falldamage") (value "0")
+L 05/28/2020 - 20:32:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_warmuptime") (value "15")
+L 05/28/2020 - 20:32:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "phys_pushscale") (value "2")
+L 05/28/2020 - 20:32:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_accelerate") (value "6.500000")
+L 05/28/2020 - 20:32:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_airaccelerate") (value "150")
+L 05/28/2020 - 20:32:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxvelocity") (value "4000")
+L 05/28/2020 - 20:32:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_force") (value "30000")
+L 05/28/2020 - 20:32:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_max_force") (value "230000")
+L 05/28/2020 - 20:32:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_min_player_speed") (value "70")
+L 05/28/2020 - 20:32:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_turbophysics") (value "1")
+L 05/28/2020 - 20:32:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_wateraccelerate") (value "150")
+L 05/28/2020 - 20:32:05: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 05/28/2020 - 20:32:05: [mapconfigs.smx] Searching specific configs for mg_damons_canyon
+L 05/28/2020 - 20:32:05: [mapchooser_extended.smx] No official map list found for csgo. Consider submitting one!
+L 05/28/2020 - 20:32:22: -------- Mapchange to mg_damons_canyon --------
+L 05/28/2020 - 20:32:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_death_drop_gun") (value "1")
+L 05/28/2020 - 20:32:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_accelerate") (value "5.6")
+L 05/28/2020 - 20:32:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_wateraccelerate") (value "150")
+L 05/28/2020 - 20:32:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_airaccelerate") (value "1000")
+L 05/28/2020 - 20:32:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxvelocity") (value "4000")
+L 05/28/2020 - 20:32:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 05/28/2020 - 20:32:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_falldamage") (value "0")
+L 05/28/2020 - 20:32:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "phys_pushscale") (value "2")
+L 05/28/2020 - 20:32:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "cs_enable_player_physics_box") (value "1")
+L 05/28/2020 - 20:32:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_falldamage") (value "0")
+L 05/28/2020 - 20:32:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_warmuptime") (value "15")
+L 05/28/2020 - 20:32:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "phys_pushscale") (value "2")
+L 05/28/2020 - 20:32:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_accelerate") (value "6.500000")
+L 05/28/2020 - 20:32:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_airaccelerate") (value "150")
+L 05/28/2020 - 20:32:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxvelocity") (value "4000")
+L 05/28/2020 - 20:32:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_force") (value "30000")
+L 05/28/2020 - 20:32:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_max_force") (value "230000")
+L 05/28/2020 - 20:32:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_min_player_speed") (value "70")
+L 05/28/2020 - 20:32:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_turbophysics") (value "1")
+L 05/28/2020 - 20:32:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_wateraccelerate") (value "150")
+L 05/28/2020 - 20:32:22: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 05/28/2020 - 20:32:22: [mapconfigs.smx] Searching specific configs for mg_damons_canyon
+L 05/28/2020 - 20:32:22: [mapchooser_extended.smx] No official map list found for csgo. Consider submitting one!
+L 05/28/2020 - 20:32:47: -------- Mapchange to mg_damons_canyon --------
+L 05/28/2020 - 20:32:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_death_drop_gun") (value "1")
+L 05/28/2020 - 20:32:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_accelerate") (value "5.6")
+L 05/28/2020 - 20:32:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_wateraccelerate") (value "150")
+L 05/28/2020 - 20:32:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_airaccelerate") (value "1000")
+L 05/28/2020 - 20:32:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxvelocity") (value "4000")
+L 05/28/2020 - 20:32:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 05/28/2020 - 20:32:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_falldamage") (value "0")
+L 05/28/2020 - 20:32:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "phys_pushscale") (value "2")
+L 05/28/2020 - 20:32:47: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "cs_enable_player_physics_box") (value "1")
+L 05/28/2020 - 20:32:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_falldamage") (value "0")
+L 05/28/2020 - 20:32:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_warmuptime") (value "15")
+L 05/28/2020 - 20:32:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "phys_pushscale") (value "2")
+L 05/28/2020 - 20:32:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_accelerate") (value "6.500000")
+L 05/28/2020 - 20:32:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_airaccelerate") (value "150")
+L 05/28/2020 - 20:32:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxvelocity") (value "4000")
+L 05/28/2020 - 20:32:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_force") (value "30000")
+L 05/28/2020 - 20:32:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_max_force") (value "230000")
+L 05/28/2020 - 20:32:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_min_player_speed") (value "70")
+L 05/28/2020 - 20:32:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_turbophysics") (value "1")
+L 05/28/2020 - 20:32:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_wateraccelerate") (value "150")
+L 05/28/2020 - 20:32:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 05/28/2020 - 20:32:48: [mapconfigs.smx] Searching specific configs for mg_damons_canyon
+L 05/28/2020 - 20:32:48: [mapchooser_extended.smx] No official map list found for csgo. Consider submitting one!
+L 05/28/2020 - 20:35:09: -------- Mapchange to mg_damons_canyon --------
+L 05/28/2020 - 20:35:09: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_death_drop_gun") (value "1")
+L 05/28/2020 - 20:35:09: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_accelerate") (value "5.6")
+L 05/28/2020 - 20:35:09: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_wateraccelerate") (value "150")
+L 05/28/2020 - 20:35:09: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_airaccelerate") (value "1000")
+L 05/28/2020 - 20:35:09: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxvelocity") (value "4000")
+L 05/28/2020 - 20:35:09: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 05/28/2020 - 20:35:09: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_falldamage") (value "0")
+L 05/28/2020 - 20:35:09: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "phys_pushscale") (value "2")
+L 05/28/2020 - 20:35:09: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "cs_enable_player_physics_box") (value "1")
+L 05/28/2020 - 20:35:09: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_falldamage") (value "0")
+L 05/28/2020 - 20:35:09: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_warmuptime") (value "15")
+L 05/28/2020 - 20:35:09: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "phys_pushscale") (value "2")
+L 05/28/2020 - 20:35:09: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_accelerate") (value "6.500000")
+L 05/28/2020 - 20:35:09: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_airaccelerate") (value "150")
+L 05/28/2020 - 20:35:09: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxvelocity") (value "4000")
+L 05/28/2020 - 20:35:09: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_force") (value "30000")
+L 05/28/2020 - 20:35:09: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_max_force") (value "230000")
+L 05/28/2020 - 20:35:09: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_min_player_speed") (value "70")
+L 05/28/2020 - 20:35:09: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_turbophysics") (value "1")
+L 05/28/2020 - 20:35:09: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_wateraccelerate") (value "150")
+L 05/28/2020 - 20:35:09: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 05/28/2020 - 20:35:09: [mapconfigs.smx] Searching specific configs for mg_damons_canyon
+L 05/28/2020 - 20:35:09: [mapchooser_extended.smx] No official map list found for csgo. Consider submitting one!
+L 05/28/2020 - 20:35:35: [playercommands.smx] "Exotic<10><STEAM_1:0:119733263><>" slayed "Exotic<10><STEAM_1:0:119733263><>"
+L 05/28/2020 - 20:35:35: [playercommands.smx] "Exotic<10><STEAM_1:0:119733263><>" slayed "Auto<11><BOT><>"
+L 05/28/2020 - 20:35:58: SourceMod log file session started (file "C:\servers\exofenscourse\csgo\addons\sourcemod\logs\L20200528.log") (Version "1.10.0.6488")
+L 05/28/2020 - 20:35:58: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 05/28/2020 - 20:35:58: [simple-chatprocessor.smx] [SCP] Recognized mod [Counter-Strike: GO].
+L 05/28/2020 - 20:35:58: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.csgo.phrases].
+L 05/28/2020 - 20:36:00: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_falldamage") (value "0")
+L 05/28/2020 - 20:36:00: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_warmuptime") (value "15")
+L 05/28/2020 - 20:36:00: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "phys_pushscale") (value "2")
+L 05/28/2020 - 20:36:00: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_accelerate") (value "6.500000")
+L 05/28/2020 - 20:36:00: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_airaccelerate") (value "150")
+L 05/28/2020 - 20:36:00: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxvelocity") (value "4000")
+L 05/28/2020 - 20:36:00: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_force") (value "30000")
+L 05/28/2020 - 20:36:00: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_max_force") (value "230000")
+L 05/28/2020 - 20:36:00: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_min_player_speed") (value "70")
+L 05/28/2020 - 20:36:00: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_turbophysics") (value "1")
+L 05/28/2020 - 20:36:00: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_wateraccelerate") (value "150")
+L 05/28/2020 - 20:36:00: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 05/28/2020 - 20:36:00: [mapconfigs.smx] Searching specific configs for mg_damons_canyon
+L 05/28/2020 - 20:36:00: [mapchooser_extended.smx] No official map list found for csgo. Consider submitting one!
+L 05/28/2020 - 20:36:06: -------- Mapchange to mg_damons_canyon --------
+L 05/28/2020 - 20:36:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_death_drop_gun") (value "1")
+L 05/28/2020 - 20:36:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_accelerate") (value "5.6")
+L 05/28/2020 - 20:36:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_wateraccelerate") (value "150")
+L 05/28/2020 - 20:36:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_airaccelerate") (value "1000")
+L 05/28/2020 - 20:36:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxvelocity") (value "4000")
+L 05/28/2020 - 20:36:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 05/28/2020 - 20:36:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_falldamage") (value "0")
+L 05/28/2020 - 20:36:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "phys_pushscale") (value "2")
+L 05/28/2020 - 20:36:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "cs_enable_player_physics_box") (value "1")
+L 05/28/2020 - 20:36:07: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_falldamage") (value "0")
+L 05/28/2020 - 20:36:07: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_warmuptime") (value "15")
+L 05/28/2020 - 20:36:07: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "phys_pushscale") (value "2")
+L 05/28/2020 - 20:36:07: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_accelerate") (value "6.500000")
+L 05/28/2020 - 20:36:07: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_airaccelerate") (value "150")
+L 05/28/2020 - 20:36:07: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxvelocity") (value "4000")
+L 05/28/2020 - 20:36:07: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_force") (value "30000")
+L 05/28/2020 - 20:36:07: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_max_force") (value "230000")
+L 05/28/2020 - 20:36:07: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_min_player_speed") (value "70")
+L 05/28/2020 - 20:36:07: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_turbophysics") (value "1")
+L 05/28/2020 - 20:36:07: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_wateraccelerate") (value "150")
+L 05/28/2020 - 20:36:07: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 05/28/2020 - 20:36:07: [mapconfigs.smx] Searching specific configs for mg_damons_canyon
+L 05/28/2020 - 20:36:07: [mapchooser_extended.smx] No official map list found for csgo. Consider submitting one!
+L 05/28/2020 - 20:37:43: [mapchooser_extended.smx] Starting map vote because outside request
+L 05/28/2020 - 21:50:06: SourceMod log file session started (file "C:\servers\exofenscourse\csgo\addons\sourcemod\logs\L20200528.log") (Version "1.10.0.6488")
+L 05/28/2020 - 21:50:06: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 05/28/2020 - 21:50:06: [simple-chatprocessor.smx] [SCP] Recognized mod [Counter-Strike: GO].
+L 05/28/2020 - 21:50:06: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.csgo.phrases].
+L 05/28/2020 - 21:50:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_falldamage") (value "0")
+L 05/28/2020 - 21:50:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_warmuptime") (value "15")
+L 05/28/2020 - 21:50:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "phys_pushscale") (value "2")
+L 05/28/2020 - 21:50:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_accelerate") (value "6.500000")
+L 05/28/2020 - 21:50:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_airaccelerate") (value "150")
+L 05/28/2020 - 21:50:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxvelocity") (value "4000")
+L 05/28/2020 - 21:50:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_force") (value "30000")
+L 05/28/2020 - 21:50:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_max_force") (value "230000")
+L 05/28/2020 - 21:50:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_min_player_speed") (value "70")
+L 05/28/2020 - 21:50:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_turbophysics") (value "1")
+L 05/28/2020 - 21:50:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_wateraccelerate") (value "150")
+L 05/28/2020 - 21:50:08: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 05/28/2020 - 21:50:08: [mapconfigs.smx] Searching specific configs for mg_damons_canyon
+L 05/28/2020 - 21:50:08: [mapchooser_extended.smx] No official map list found for csgo. Consider submitting one!
+L 05/28/2020 - 22:30:27: SourceMod log file session started (file "C:\servers\exofenscourse\csgo\addons\sourcemod\logs\L20200528.log") (Version "1.10.0.6488")
+L 05/28/2020 - 22:30:27: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 05/28/2020 - 22:30:27: [simple-chatprocessor.smx] [SCP] Recognized mod [Counter-Strike: GO].
+L 05/28/2020 - 22:30:27: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.csgo.phrases].
+L 05/28/2020 - 22:30:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_falldamage") (value "0")
+L 05/28/2020 - 22:30:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_warmuptime") (value "15")
+L 05/28/2020 - 22:30:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "phys_pushscale") (value "2")
+L 05/28/2020 - 22:30:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_accelerate") (value "6.500000")
+L 05/28/2020 - 22:30:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_airaccelerate") (value "150")
+L 05/28/2020 - 22:30:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxvelocity") (value "4000")
+L 05/28/2020 - 22:30:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_force") (value "30000")
+L 05/28/2020 - 22:30:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_max_force") (value "230000")
+L 05/28/2020 - 22:30:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_min_player_speed") (value "70")
+L 05/28/2020 - 22:30:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_turbophysics") (value "1")
+L 05/28/2020 - 22:30:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_wateraccelerate") (value "150")
+L 05/28/2020 - 22:30:29: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 05/28/2020 - 22:30:29: [mapconfigs.smx] Searching specific configs for mg_damons_canyon
+L 05/28/2020 - 22:30:29: [mapchooser_extended.smx] No official map list found for csgo. Consider submitting one!
+L 05/28/2020 - 23:10:14: SourceMod log file session started (file "C:\servers\exofenscourse\csgo\addons\sourcemod\logs\L20200528.log") (Version "1.10.0.6488")
+L 05/28/2020 - 23:10:14: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 05/28/2020 - 23:10:14: [simple-chatprocessor.smx] [SCP] Recognized mod [Counter-Strike: GO].
+L 05/28/2020 - 23:10:14: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.csgo.phrases].
+L 05/28/2020 - 23:10:16: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_falldamage") (value "0")
+L 05/28/2020 - 23:10:16: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_warmuptime") (value "15")
+L 05/28/2020 - 23:10:16: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "phys_pushscale") (value "2")
+L 05/28/2020 - 23:10:16: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_accelerate") (value "6.500000")
+L 05/28/2020 - 23:10:16: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_airaccelerate") (value "150")
+L 05/28/2020 - 23:10:16: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxvelocity") (value "4000")
+L 05/28/2020 - 23:10:16: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_force") (value "30000")
+L 05/28/2020 - 23:10:16: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_max_force") (value "230000")
+L 05/28/2020 - 23:10:16: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_min_player_speed") (value "70")
+L 05/28/2020 - 23:10:16: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_turbophysics") (value "1")
+L 05/28/2020 - 23:10:16: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_wateraccelerate") (value "150")
+L 05/28/2020 - 23:10:16: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 05/28/2020 - 23:10:16: [mapconfigs.smx] Searching specific configs for mg_damons_canyon
+L 05/28/2020 - 23:10:16: [mapchooser_extended.smx] No official map list found for csgo. Consider submitting one!
+L 05/28/2020 - 23:12:08: SourceMod log file session started (file "C:\servers\exofenscourse\csgo\addons\sourcemod\logs\L20200528.log") (Version "1.10.0.6488")
+L 05/28/2020 - 23:12:08: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 05/28/2020 - 23:12:08: [simple-chatprocessor.smx] [SCP] Recognized mod [Counter-Strike: GO].
+L 05/28/2020 - 23:12:08: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.csgo.phrases].
+L 05/28/2020 - 23:12:10: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_falldamage") (value "0")
+L 05/28/2020 - 23:12:10: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_warmuptime") (value "15")
+L 05/28/2020 - 23:12:10: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "phys_pushscale") (value "2")
+L 05/28/2020 - 23:12:10: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_accelerate") (value "6.500000")
+L 05/28/2020 - 23:12:10: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_airaccelerate") (value "150")
+L 05/28/2020 - 23:12:10: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxvelocity") (value "4000")
+L 05/28/2020 - 23:12:10: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_force") (value "30000")
+L 05/28/2020 - 23:12:10: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_max_force") (value "230000")
+L 05/28/2020 - 23:12:10: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_min_player_speed") (value "70")
+L 05/28/2020 - 23:12:10: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_turbophysics") (value "1")
+L 05/28/2020 - 23:12:10: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_wateraccelerate") (value "150")
+L 05/28/2020 - 23:12:10: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 05/28/2020 - 23:12:10: [mapconfigs.smx] Searching specific configs for mg_damons_canyon
+L 05/28/2020 - 23:12:10: [mapchooser_extended.smx] No official map list found for csgo. Consider submitting one!
+L 05/28/2020 - 23:14:25: SourceMod log file session started (file "C:\servers\exofenscourse\csgo\addons\sourcemod\logs\L20200528.log") (Version "1.10.0.6488")
+L 05/28/2020 - 23:14:25: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 05/28/2020 - 23:14:25: [simple-chatprocessor.smx] [SCP] Recognized mod [Counter-Strike: GO].
+L 05/28/2020 - 23:14:25: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.csgo.phrases].
+L 05/28/2020 - 23:14:27: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_falldamage") (value "0")
+L 05/28/2020 - 23:14:27: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_warmuptime") (value "15")
+L 05/28/2020 - 23:14:27: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "phys_pushscale") (value "2")
+L 05/28/2020 - 23:14:27: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_accelerate") (value "6.500000")
+L 05/28/2020 - 23:14:27: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_airaccelerate") (value "150")
+L 05/28/2020 - 23:14:27: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxvelocity") (value "4000")
+L 05/28/2020 - 23:14:27: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_force") (value "30000")
+L 05/28/2020 - 23:14:27: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_max_force") (value "230000")
+L 05/28/2020 - 23:14:27: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_min_player_speed") (value "70")
+L 05/28/2020 - 23:14:27: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_turbophysics") (value "1")
+L 05/28/2020 - 23:14:27: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_wateraccelerate") (value "150")
+L 05/28/2020 - 23:14:27: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 05/28/2020 - 23:14:27: [mapconfigs.smx] Searching specific configs for mg_damons_canyon
+L 05/28/2020 - 23:14:27: [mapchooser_extended.smx] No official map list found for csgo. Consider submitting one!
+L 05/28/2020 - 23:15:07: -------- Mapchange to mg_damons_canyon --------
+L 05/28/2020 - 23:15:07: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_death_drop_gun") (value "1")
+L 05/28/2020 - 23:15:07: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_accelerate") (value "5.6")
+L 05/28/2020 - 23:15:07: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_wateraccelerate") (value "150")
+L 05/28/2020 - 23:15:07: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_airaccelerate") (value "1000")
+L 05/28/2020 - 23:15:07: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxvelocity") (value "4000")
+L 05/28/2020 - 23:15:07: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 05/28/2020 - 23:15:07: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_falldamage") (value "0")
+L 05/28/2020 - 23:15:07: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "phys_pushscale") (value "2")
+L 05/28/2020 - 23:15:07: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "cs_enable_player_physics_box") (value "1")
+L 05/28/2020 - 23:15:07: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_falldamage") (value "0")
+L 05/28/2020 - 23:15:07: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_warmuptime") (value "15")
+L 05/28/2020 - 23:15:07: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "phys_pushscale") (value "2")
+L 05/28/2020 - 23:15:07: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_accelerate") (value "6.500000")
+L 05/28/2020 - 23:15:07: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_airaccelerate") (value "150")
+L 05/28/2020 - 23:15:07: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxvelocity") (value "4000")
+L 05/28/2020 - 23:15:07: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_force") (value "30000")
+L 05/28/2020 - 23:15:07: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_max_force") (value "230000")
+L 05/28/2020 - 23:15:07: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_min_player_speed") (value "70")
+L 05/28/2020 - 23:15:07: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_turbophysics") (value "1")
+L 05/28/2020 - 23:15:07: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_wateraccelerate") (value "150")
+L 05/28/2020 - 23:15:07: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 05/28/2020 - 23:15:07: [mapconfigs.smx] Searching specific configs for mg_damons_canyon
+L 05/28/2020 - 23:15:07: [mapchooser_extended.smx] No official map list found for csgo. Consider submitting one!
+L 05/28/2020 - 23:30:46: SourceMod log file session started (file "C:\servers\exofenscourse\csgo\addons\sourcemod\logs\L20200528.log") (Version "1.10.0.6488")
+L 05/28/2020 - 23:30:46: [GEOIP] GeoIP database info: GEO-106FREE 20180327 Build 1 Copyright (c) 2018 MaxMind Inc All Rights Reserved
+L 05/28/2020 - 23:30:46: [simple-chatprocessor.smx] [SCP] Recognized mod [Counter-Strike: GO].
+L 05/28/2020 - 23:30:46: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.csgo.phrases].
+L 05/28/2020 - 23:30:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_falldamage") (value "0")
+L 05/28/2020 - 23:30:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_warmuptime") (value "15")
+L 05/28/2020 - 23:30:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "phys_pushscale") (value "2")
+L 05/28/2020 - 23:30:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_accelerate") (value "6.500000")
+L 05/28/2020 - 23:30:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_airaccelerate") (value "150")
+L 05/28/2020 - 23:30:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxvelocity") (value "4000")
+L 05/28/2020 - 23:30:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_force") (value "30000")
+L 05/28/2020 - 23:30:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_max_force") (value "230000")
+L 05/28/2020 - 23:30:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_min_player_speed") (value "70")
+L 05/28/2020 - 23:30:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_turbophysics") (value "1")
+L 05/28/2020 - 23:30:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_wateraccelerate") (value "150")
+L 05/28/2020 - 23:30:48: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 05/28/2020 - 23:30:48: [mapconfigs.smx] Searching specific configs for mg_damons_canyon
+L 05/28/2020 - 23:30:48: [mapchooser_extended.smx] No official map list found for csgo. Consider submitting one!
+L 05/28/2020 - 23:31:00: -------- Mapchange to mg_damons_canyon --------
+L 05/28/2020 - 23:31:00: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_death_drop_gun") (value "1")
+L 05/28/2020 - 23:31:00: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_accelerate") (value "5.6")
+L 05/28/2020 - 23:31:00: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_wateraccelerate") (value "150")
+L 05/28/2020 - 23:31:00: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_airaccelerate") (value "1000")
+L 05/28/2020 - 23:31:00: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxvelocity") (value "4000")
+L 05/28/2020 - 23:31:00: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 05/28/2020 - 23:31:00: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_falldamage") (value "0")
+L 05/28/2020 - 23:31:00: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "phys_pushscale") (value "2")
+L 05/28/2020 - 23:31:00: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "cs_enable_player_physics_box") (value "1")
+L 05/28/2020 - 23:31:00: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_falldamage") (value "0")
+L 05/28/2020 - 23:31:00: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "mp_warmuptime") (value "15")
+L 05/28/2020 - 23:31:00: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "phys_pushscale") (value "2")
+L 05/28/2020 - 23:31:00: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_accelerate") (value "6.500000")
+L 05/28/2020 - 23:31:00: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_airaccelerate") (value "150")
+L 05/28/2020 - 23:31:00: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_maxvelocity") (value "4000")
+L 05/28/2020 - 23:31:00: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_force") (value "30000")
+L 05/28/2020 - 23:31:00: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_max_force") (value "230000")
+L 05/28/2020 - 23:31:00: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_pushaway_min_player_speed") (value "70")
+L 05/28/2020 - 23:31:00: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_turbophysics") (value "1")
+L 05/28/2020 - 23:31:00: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_wateraccelerate") (value "150")
+L 05/28/2020 - 23:31:00: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sv_enablebunnyhopping") (value "1")
+L 05/28/2020 - 23:31:00: [mapconfigs.smx] Searching specific configs for mg_damons_canyon
+L 05/28/2020 - 23:31:00: [mapchooser_extended.smx] No official map list found for csgo. Consider submitting one!
+L 05/29/2020 - 00:00:00: Log file closed.

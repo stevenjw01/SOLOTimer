@@ -1,0 +1,64 @@
+2020-05-28 15:07:33 [timer-logging.smx]               INFO  | Logging started
+2020-05-28 15:16:28 [timer-logging.smx]               INFO  | Logging started
+2020-05-28 15:16:30 [timer-sound.smx]                 TRACE | [Sound] Sounds cached OnConfigsExecuted
+2020-05-28 15:16:39 [timer-mysql.smx]                 INFO  | [timer-mysql.smx] MySQL v3.2.0.0 connection established and ready.
+2020-05-28 15:16:39 [timer-core.smx]                  INFO  | [Timer] MySQL connection established and conneted to timer-core.
+2020-05-28 15:16:39 [timer-core.smx]                  INFO  | [Timer] MySQL connection established and conneted to timer-core.
+2020-05-28 15:16:39 [timer-core.smx]                  INFO  | [Timer] MySQL connection established and conneted to timer-core.
+2020-05-28 15:17:01 [timer-sound.smx]                 TRACE | [Sound] Sounds cached OnConfigsExecuted
+2020-05-28 15:17:05 [timer-mapzones.smx]              INFO  | No mapzone entitys spawned, reloading...
+2020-05-28 15:20:26 [timer-sound.smx]                 TRACE | [Sound] Sounds cached OnConfigsExecuted
+2020-05-28 15:20:29 [timer-mapzones.smx]              INFO  | No mapzone entitys spawned, reloading...
+2020-05-28 15:20:41 [timer-sound.smx]                 TRACE | [Sound] Sounds cached OnConfigsExecuted
+2020-05-28 15:20:45 [timer-mapzones.smx]              INFO  | No mapzone entitys spawned, reloading...
+2020-05-28 15:22:55 [timer-core.smx]                  WARN  | Detected illegal record by steven #cute on mg_ataraxia [time:0.97|style:3|track:0|jumps:1] SteamID: STEAM_1:1:204039010
+2020-05-28 15:23:24 [timer-core.smx]                  WARN  | Detected illegal record by steven #cute on mg_ataraxia [time:0.96|style:3|track:0|jumps:2] SteamID: STEAM_1:1:204039010
+2020-05-28 15:23:40 [timer-core.smx]                  WARN  | Detected illegal record by steven #cute on mg_ataraxia [time:0.97|style:3|track:0|jumps:2] SteamID: STEAM_1:1:204039010
+2020-05-28 16:13:54 [timer-logging.smx]               INFO  | Logging started
+2020-05-28 16:34:14 [timer-logging.smx]               INFO  | Logging started
+2020-05-28 16:52:24 [timer-logging.smx]               INFO  | Logging started
+2020-05-28 16:57:26 [timer-logging.smx]               INFO  | Logging started
+2020-05-28 17:12:57 [timer-logging.smx]               INFO  | Logging started
+2020-05-28 17:17:29 [timer-logging.smx]               INFO  | Logging started
+2020-05-28 17:18:21 [timer-logging.smx]               INFO  | Logging started
+2020-05-28 18:00:27 [timer-logging.smx]               INFO  | Logging started
+2020-05-28 18:18:31 [timer-logging.smx]               INFO  | Logging started
+2020-05-28 19:00:28 [timer-logging.smx]               INFO  | Logging started
+2020-05-28 19:00:30 [timer-sound.smx]                 TRACE | [Sound] Sounds cached OnConfigsExecuted
+2020-05-28 19:00:34 [timer-mysql.smx]                 INFO  | [timer-mysql.smx] MySQL v3.2.0.0 connection established and ready.
+2020-05-28 19:00:34 [timer-core.smx]                  INFO  | [Timer] MySQL connection established and conneted to timer-core.
+2020-05-28 19:00:34 [timer-core.smx]                  INFO  | [Timer] MySQL connection established and conneted to timer-core.
+2020-05-28 19:00:34 [timer-core.smx]                  INFO  | [Timer] MySQL connection established and conneted to timer-core.
+2020-05-28 19:00:34 [timer-core.smx]                  INFO  | [Timer] MySQL connection established and conneted to timer-core.
+2020-05-28 19:23:52 [timer-sound.smx]                 TRACE | [Sound] Sounds cached OnConfigsExecuted
+2020-05-28 19:23:56 [timer-mapzones.smx]              INFO  | No mapzone entitys spawned, reloading...
+2020-05-28 19:25:44 [timer-logging.smx]               INFO  | Logging stopped
+2020-05-28 20:07:01 [timer-logging.smx]               INFO  | Logging started
+2020-05-28 20:08:56 [timer-logging.smx]               INFO  | Logging started
+2020-05-28 20:27:12 [timer-logging.smx]               INFO  | Logging started
+2020-05-28 20:27:14 [timer-sound.smx]                 TRACE | [Sound] Sounds cached OnConfigsExecuted
+2020-05-28 20:27:18 [timer-sound.smx]                 TRACE | [Sound] Sounds cached OnConfigsExecuted
+2020-05-28 20:27:26 [timer-mysql.smx]                 INFO  | [timer-mysql.smx] MySQL v3.2.0.0 connection established and ready.
+2020-05-28 20:27:26 [timer-core.smx]                  INFO  | [Timer] MySQL connection established and conneted to timer-core.
+2020-05-28 20:27:26 [timer-core.smx]                  INFO  | [Timer] MySQL connection established and conneted to timer-core.
+2020-05-28 20:27:26 [timer-core.smx]                  INFO  | [Timer] MySQL connection established and conneted to timer-core.
+2020-05-28 20:27:26 [timer-core.smx]                  INFO  | [Timer] MySQL connection established and conneted to timer-core.
+2020-05-28 20:27:28 [timer-online_db.smx]             ERROR | SQL Error on InsertCallback: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'server = 1' at line 1
+2020-05-28 20:27:30 [timer-online_db.smx]             ERROR | SQL Error on InsertCallback: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'server = 1' at line 1
+2020-05-28 20:32:03 [timer-logging.smx]               INFO  | Logging started
+2020-05-28 20:35:58 [timer-logging.smx]               INFO  | Logging started
+2020-05-28 21:50:06 [timer-logging.smx]               INFO  | Logging started
+2020-05-28 22:30:27 [timer-logging.smx]               INFO  | Logging started
+2020-05-28 23:10:14 [timer-logging.smx]               INFO  | Logging started
+2020-05-28 23:12:08 [timer-logging.smx]               INFO  | Logging started
+2020-05-28 23:14:25 [timer-logging.smx]               INFO  | Logging started
+2020-05-28 23:30:46 [timer-logging.smx]               INFO  | Logging started
+2020-05-28 23:30:48 [timer-sound.smx]                 TRACE | [Sound] Sounds cached OnConfigsExecuted
+2020-05-28 23:30:52 [timer-mysql.smx]                 INFO  | [timer-mysql.smx] MySQL v3.2.0.0 connection established and ready.
+2020-05-28 23:30:52 [timer-core.smx]                  INFO  | [Timer] MySQL connection established and conneted to timer-core.
+2020-05-28 23:30:52 [timer-core.smx]                  INFO  | [Timer] MySQL connection established and conneted to timer-core.
+2020-05-28 23:30:52 [timer-core.smx]                  INFO  | [Timer] MySQL connection established and conneted to timer-core.
+2020-05-28 23:31:00 [timer-sound.smx]                 TRACE | [Sound] Sounds cached OnConfigsExecuted
+2020-05-28 23:31:04 [timer-mapzones.smx]              INFO  | No mapzone entitys spawned, reloading...
+2020-05-29 00:00:00 [timer-logging.smx]               INFO  | Date changed; switching log file
+2020-05-29 00:00:00 [timer-logging.smx]               INFO  | Logging stopped
