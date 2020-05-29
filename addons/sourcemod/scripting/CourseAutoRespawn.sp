@@ -149,7 +149,7 @@ public Action:Timer_CreateBot(Handle:hTimer)
 	if(!iSpawnTeam)
 		return;
 	
-	new iBot = CreateFakeClient("Solo Respawn");
+	new iBot = CreateFakeClient("Mrs. Respawn");
 	if(!iBot)
 		return;
 	
