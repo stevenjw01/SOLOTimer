@@ -97,7 +97,7 @@ public Plugin myinfo =
 /***********************************************************/
 public void OnPluginStart()
 {
-	RegConsoleCmd("sm_replay",Command_Spawnbot); //replay command
+	RegConsoleCmd("sm_replay", Command_Spawnbot, "Opens the replay menu."); //replay command
 	LoadTranslations("drapi/drapi_timer_replay.phrases");
 	AutoExecConfig_SetFile("drapi_timer_replay", "sourcemod/drapi");
 	
@@ -144,13 +144,13 @@ public Action CS_OnTerminateRound(float &delay, CSRoundEndReason &reason)
 /***********************************************************/
 /**************** WHEN CLIENT PUT IN SERVER ****************/
 /***********************************************************/
-/*
+
 public void OnClientPutInServer(int client)
 {
 	if(IsFakeClient(client))
 	{	
 		Handle dataPackHandle;
-		CreateDataTimer(2.0, TimerData_OnBotJoin, dataPackHandle);
+		CreateDataTimer(2.0, Command_Spawnbot, dataPackHandle);
 		WritePackCell(dataPackHandle, GetClientUserId(client));
 		WritePackString(dataPackHandle, S_FileReplay[C_FileReplayStyle]);
 		
@@ -173,8 +173,8 @@ public void OnClientPutInServer(int client)
 	}
 		
 }
-*/
-public void Command_Spawnbot(int client)
+/*
+public Action Command_Spawnbot(int client, int args)
 {
 		if(IsFakeClient(client))
 	{	
@@ -201,14 +201,14 @@ public void Command_Spawnbot(int client)
 		}
 	}
 }
-
+*/
 /***********************************************************/
 /***************** TIMER DATA ON BOT JOIN ******************/
 /***********************************************************/
-public Action TimerData_OnBotJoin(Handle timer, Handle dataPackHandle)
+public Action Command_Spawnbot(int client, int args)
 {
 	ResetPack(dataPackHandle);
-	int client 		= GetClientOfUserId(ReadPackCell(dataPackHandle));
+	//int client 		= GetClientOfUserId(ReadPackCell(dataPackHandle));
 	char S_file[PLATFORM_MAX_PATH];
 	ReadPackString(dataPackHandle, S_file, PLATFORM_MAX_PATH);
 	
