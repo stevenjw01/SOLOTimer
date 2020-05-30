@@ -184,6 +184,7 @@ public Action TimerData_OnBotJoin(Handle timer, Handle dataPackHandle)
 	
 	if(client > 0 && IsClientInGame(client) && !IsPlayerAlive(client))
 	{
+		SetEntityMoveType(client, MOVETYPE_NOCLIP);
 		CS_SwitchTeam(client, CS_TEAM_T);
 		CS_SwitchTeam(client, CS_TEAM_CT);
 		CS_RespawnPlayer(client);
