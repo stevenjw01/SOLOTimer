@@ -184,7 +184,7 @@ public APLRes:AskPluginLoad2(Handle:myself, bool:late, String:error[], err_max)
 public OnPluginStart()
 {
 	//COMMANDS (ADDED by Will Hord)
-	RegConsoleCmd("rp_replay",Command_Spawnbot); //replay command
+	RegConsoleCmd("sm_replay",Command_Spawnbot); //replay command
 
 	new Handle:hVersion = CreateConVar("sm_botmimic_version", PLUGIN_VERSION, "Bot Mimic version", FCVAR_PLUGIN|FCVAR_NOTIFY|FCVAR_DONTRECORD);
 	if(hVersion != INVALID_HANDLE)

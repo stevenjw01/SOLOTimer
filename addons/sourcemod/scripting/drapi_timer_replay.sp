@@ -97,6 +97,7 @@ public Plugin myinfo =
 /***********************************************************/
 public void OnPluginStart()
 {
+	RegConsoleCmd("sm_replay",Command_Spawnbot); //replay command
 	LoadTranslations("drapi/drapi_timer_replay.phrases");
 	AutoExecConfig_SetFile("drapi_timer_replay", "sourcemod/drapi");
 	
@@ -143,6 +144,7 @@ public Action CS_OnTerminateRound(float &delay, CSRoundEndReason &reason)
 /***********************************************************/
 /**************** WHEN CLIENT PUT IN SERVER ****************/
 /***********************************************************/
+/*
 public void OnClientPutInServer(int client)
 {
 	if(IsFakeClient(client))
@@ -154,8 +156,8 @@ public void OnClientPutInServer(int client)
 		
 		C_BotStyle[client] = C_FileReplayStyle;
 		
-		SetClientName(client, g_Physics[C_FileReplayStyle][StyleName]);
-		CS_SetClientClanTag(client, "[WR]");
+		//SetClientName(client, g_Physics[C_FileReplayStyle][StyleName]);
+		//CS_SetClientClanTag(client, "[WR]");
 		
 		if(B_active_timer_replay_dev)
 		{
@@ -170,6 +172,34 @@ public void OnClientPutInServer(int client)
 		}
 	}
 		
+}
+*/
+public void Command_Spawnbot(int client)
+{
+		if(IsFakeClient(client))
+	{	
+		Handle dataPackHandle;
+		CreateDataTimer(2.0, TimerData_OnBotJoin, dataPackHandle);
+		WritePackCell(dataPackHandle, GetClientUserId(client));
+		WritePackString(dataPackHandle, S_FileReplay[C_FileReplayStyle]);
+		
+		C_BotStyle[client] = C_FileReplayStyle;
+		
+		//SetClientName(client, g_Physics[C_FileReplayStyle][StyleName]);
+		//CS_SetClientClanTag(client, "[WR]");
+		
+		if(B_active_timer_replay_dev)
+		{
+			LogMessage("%N: %s", client, S_FileReplay[C_FileReplayStyle]);
+		}
+	}
+	else
+	{
+		if(IsClientInGame(client) && BotMimic_IsPlayerRecording(client))
+		{
+			BotMimic_StopRecording(client, false);
+		}
+	}
 }
 
 /***********************************************************/
