@@ -189,7 +189,7 @@ public OnPluginStart()
 	HookConVarChange(g_hDisplayMsg, OnCVarChange);
 	g_iDisplayMsg = GetConVarInt(g_hDisplayMsg);
 
-	g_hRequiredPoints = AutoExecConfig_CreateConVar("timer_ranks_minimum_points", "20", "Optional requirement that determines the minimum number of points a client must possess to be in any rankings.", FCVAR_NONE, true, 0.0);
+	g_hRequiredPoints = AutoExecConfig_CreateConVar("timer_ranks_minimum_points", "0", "Optional requirement that determines the minimum number of points a client must possess to be in any rankings.", FCVAR_NONE, true, 0.0);
 	HookConVarChange(g_hRequiredPoints, OnCVarChange);
 	g_iRequiredPoints = GetConVarInt(g_hRequiredPoints);
 
@@ -197,7 +197,7 @@ public OnPluginStart()
 	HookConVarChange(g_hGlobalMessage, OnCVarChange);
 	g_bGlobalMessage = GetConVarBool(g_hGlobalMessage);
 
-	g_hPositionMethod = AutoExecConfig_CreateConVar("timer_ranks_position_method", "1", "Determines what method will be used to determine rank positions in-game. (0 = Based on clients' total number of points, 1 = Based on the clients' current rank within the server, 2 = based on current time ranking)", FCVAR_NONE, true, 0.0, true, 2.0);
+	g_hPositionMethod = AutoExecConfig_CreateConVar("timer_ranks_position_method", "0", "Determines what method will be used to determine rank positions in-game. (0 = Based on clients' total number of points, 1 = Based on the clients' current rank within the server, 2 = based on current time ranking)", FCVAR_NONE, true, 0.0, true, 2.0);
 	HookConVarChange(g_hPositionMethod, OnCVarChange);
 	g_iPositionMethod = GetConVarInt(g_hPositionMethod);
 
@@ -205,7 +205,7 @@ public OnPluginStart()
 	HookConVarChange(g_hLimitTopPlayers, OnCVarChange);
 	g_iLimitTopPlayers = GetConVarInt(g_hLimitTopPlayers);
 	
-	g_hAdvertisement = AutoExecConfig_CreateConVar("timer_ranks_adverts", "0.0", "Optional feature that prints the translation phrase `Advertisement` every x.x seconds. (0.0 = Disabled)", FCVAR_NONE, true, 0.0);
+	g_hAdvertisement = AutoExecConfig_CreateConVar("timer_ranks_adverts", "1.0", "Optional feature that prints the translation phrase `Advertisement` every x.x seconds. (0.0 = Disabled)", FCVAR_NONE, true, 0.0);
 	HookConVarChange(g_hAdvertisement, OnCVarChange);
 	g_fAdvertisement = GetConVarFloat(g_hAdvertisement);
 	
@@ -229,7 +229,7 @@ public OnPluginStart()
 	HookConVarChange(g_hKickMsg, OnCVarChange);
 	GetConVarString(g_hKickMsg, g_sKickMsg, sizeof(g_sKickMsg));
 
-	g_hAllchat = AutoExecConfig_CreateConVar("timer_ranks_allchat", "0", "If enabled, the plugin will enable allchat.", FCVAR_NONE, true, 0.0, true, 1.0);
+	g_hAllchat = AutoExecConfig_CreateConVar("timer_ranks_allchat", "1", "If enabled, the plugin will enable allchat.", FCVAR_NONE, true, 0.0, true, 1.0);
 	HookConVarChange(g_hAllchat, OnCVarChange);
 	g_bAllchat = GetConVarBool(g_hAllchat);
 	
@@ -483,7 +483,7 @@ public Action:Timer_Advertisement(Handle:timer)
 	if(g_fAdvertisement <= 0.0)
 		return Plugin_Stop;
 
-	CPrintToChatAll("Advertisement");
+	CPrintToChatAll("Welcome to Solo Course. Add us to your favorites!");
 	
 	return Plugin_Continue;
 }
